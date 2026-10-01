@@ -76,6 +76,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Cascadia | [295947](https://boardgamegeek.com/boardgame/295947) | [cascadia.pdf](cascadia-295947/cascadia.pdf) |
 | Cascadia | [295947](https://boardgamegeek.com/boardgame/295947) | [rulebook.pdf](cascadia-295947/rulebook.pdf) |
 | Cascadia - Landmarks (tiles & tokens) | [385318](https://boardgamegeek.com/boardgame/385318) | [casc-lm.pdf](cascadia-landmarks-tiles-tokens-385318/casc-lm.pdf) |
+| Catan | [13](https://boardgamegeek.com/boardgame/13) | [catan.pdf](catan-13/catan.pdf) |
 | Catan: Big Box | [191710](https://boardgamegeek.com/boardgame/191710) | [fd-catan-rulebook.pdf](catan-big-box-191710/fd-catan-rulebook.pdf) |
 | Caverna: The Cave Farmers | [102794](https://boardgamegeek.com/boardgame/102794) | [rulebook.pdf](caverna-the-cave-farmers-102794/rulebook.pdf) |
 | Citadels | [478](https://boardgamegeek.com/boardgame/478) | [rulebook.pdf](citadels-478/rulebook.pdf) |
