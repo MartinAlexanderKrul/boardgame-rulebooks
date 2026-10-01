@@ -20,6 +20,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | 7 Wonders Duel - Agora | [309116](https://boardgamegeek.com/boardgame/309116) | [7-wonders-duel-agora.pdf](7-wonders-duel-agora-309116/7-wonders-duel-agora.pdf) |
 | 7 Wonders Duel - Pantheon | [202976](https://boardgamegeek.com/boardgame/202976) | [24-7-wonders-duel-pantheon-rulebook.pdf](7-wonders-duel-pantheon-202976/24-7-wonders-duel-pantheon-rulebook.pdf) |
 | A Feast for Odin | [177736](https://boardgamegeek.com/boardgame/177736) | [ODIN_EN_rules-LR.pdf](a-feast-for-odin-177736/ODIN_EN_rules-LR.pdf) |
+| Activity 2 | [27451](https://boardgamegeek.com/boardgame/27451) | [web-rules.pdf](activity-2-27451/web-rules.pdf) |
 | Aeon's End | [191189](https://boardgamegeek.com/boardgame/191189) | [141295.pdf](aeon-s-end-191189/141295.pdf) |
 | Aeon's End: The New Age | [270633](https://boardgamegeek.com/boardgame/270633) | [9e-aeons-end-rulebook.pdf](aeon-s-end-the-new-age-270633/9e-aeons-end-rulebook.pdf) |
 | Age of Galaxy | [330950](https://boardgamegeek.com/boardgame/330950) | [aog-rulebook-3.pdf](age-of-galaxy-330950/aog-rulebook-3.pdf) |
@@ -30,11 +31,13 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Akropolis - Pantheon (co-op) | [461828](https://boardgamegeek.com/boardgame/461828) | [akropolis-pantheon.pdf](akropolis-pantheon-co-op-461828/akropolis-pantheon.pdf) |
 | Anachrony | [185343](https://boardgamegeek.com/boardgame/185343) | [rulebook.pdf](anachrony-185343/rulebook.pdf) |
 | Android: Netrunner | [124742](https://boardgamegeek.com/boardgame/124742) | [rulebook.pdf](android-netrunner-124742/rulebook.pdf) |
+| Ankh: Gods of Egypt | [285967](https://boardgamegeek.com/boardgame/285967) | [Ankh_Rulebook.pdf](ankh-gods-of-egypt-285967/Ankh_Rulebook.pdf) |
 | Ankh: Gods of Egypt - Pantheon | [307807](https://boardgamegeek.com/boardgame/307807) | [Ankh_Gods_of_Egypt_-_Pantheon_Expansion.pdf](ankh-gods-of-egypt-pantheon-307807/Ankh_Gods_of_Egypt_-_Pantheon_Expansion.pdf) |
 | Ankh: Gods of Egypt - Pharaoh | [308505](https://boardgamegeek.com/boardgame/308505) | [Ankh_Gods_of_Egypt_-_Pharaoh_Expansion.pdf](ankh-gods-of-egypt-pharaoh-308505/Ankh_Gods_of_Egypt_-_Pharaoh_Expansion.pdf) |
 | Ark Nova | [342942](https://boardgamegeek.com/boardgame/342942) | [4c-ark-nova-rulebook.pdf](ark-nova-342942/4c-ark-nova-rulebook.pdf) |
 | Ark Nova - Marine Worlds | [368966](https://boardgamegeek.com/boardgame/368966) | [AN_Exp1_Rules_EN_0-7_low.pdf](ark-nova-marine-worlds-368966/AN_Exp1_Rules_EN_0-7_low.pdf) |
 | Ark Nova - Zoo Map Pack 1 | [368158](https://boardgamegeek.com/boardgame/368158) | [AN_MapPack1_Rules_EN_V1_Web.pdf](ark-nova-zoo-map-pack-1-368158/AN_MapPack1_Rules_EN_V1_Web.pdf) |
+| Arkham Horror | [15987](https://boardgamegeek.com/boardgame/15987) | [arkham-horror-rulebook.pdf](arkham-horror-15987/arkham-horror-rulebook.pdf) |
 | Arkham Horror: The Card Game | [205637](https://boardgamegeek.com/boardgame/205637) | [pub-ahc100_rulebook.pdf](arkham-horror-the-card-game-205637/pub-ahc100_rulebook.pdf) |
 | Azul | [230802](https://boardgamegeek.com/boardgame/230802) | [rulebook.pdf](azul-230802/rulebook.pdf) |
 | BANG! | [3955](https://boardgamegeek.com/boardgame/3955) | [BANG! Dice Game_Rules_ENG.pdf](bang-3955/BANG!%20Dice%20Game_Rules_ENG.pdf) |
@@ -65,6 +68,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Blood Rage - Gods of Asgard | [174801](https://boardgamegeek.com/boardgame/174801) | [goa.pdf](blood-rage-gods-of-asgard-174801/goa.pdf) |
 | Blood Rage - Mystics of Midgard | [175100](https://boardgamegeek.com/boardgame/175100) | [2c-blood-rage-mystics-of-midgard-rulebook.pdf](blood-rage-mystics-of-midgard-175100/2c-blood-rage-mystics-of-midgard-rulebook.pdf) |
 | Blood on the Clocktower | [240980](https://boardgamegeek.com/boardgame/240980) | [253824.pdf](blood-on-the-clocktower-240980/253824.pdf) |
+| Bohnanza | [11](https://boardgamegeek.com/boardgame/11) | [web-rules.pdf](bohnanza-11/web-rules.pdf) |
 | Bomb Busters | [413246](https://boardgamegeek.com/boardgame/413246) | [282791.pdf](bomb-busters-413246/282791.pdf) |
 | Brass: Birmingham | [224517](https://boardgamegeek.com/boardgame/224517) | [rulebook.pdf](brass-birmingham-224517/rulebook.pdf) |
 | Brass: Lancashire | [28720](https://boardgamegeek.com/boardgame/28720) | [brass-lancashire-rulebook.pdf](brass-lancashire-28720/brass-lancashire-rulebook.pdf) |
@@ -113,6 +117,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Codenames: Pictures | [198773](https://boardgamegeek.com/boardgame/198773) | [a8-codenames-pictures-rulebook.pdf](codenames-pictures-198773/a8-codenames-pictures-rulebook.pdf) |
 | Concordia | [124361](https://boardgamegeek.com/boardgame/124361) | [rules.pdf](concordia-124361/rules.pdf) |
 | Concordia | [124361](https://boardgamegeek.com/boardgame/124361) | [setup.pdf](concordia-124361/setup.pdf) |
+| Coup | [131357](https://boardgamegeek.com/boardgame/131357) | [web-rules.pdf](coup-131357/web-rules.pdf) |
 | Crokinole | [521](https://boardgamegeek.com/boardgame/521) | [251503.pdf](crokinole-521/251503.pdf) |
 | Cthulhu: Death May Die | [253344](https://boardgamegeek.com/boardgame/253344) | [rulebook.pdf](cthulhu-death-may-die-253344/rulebook.pdf) |
 | Cyclades: Legendary Edition | [380619](https://boardgamegeek.com/boardgame/380619) | [c-rulesbook-master-en-lr.pdf](cyclades-legendary-edition-380619/c-rulesbook-master-en-lr.pdf) |
@@ -158,6 +163,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doeghostsrulebook2024-low.pdf](dwellings-of-eldervale-271055/doeghostsrulebook2024-low.pdf) |
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doerulebook2024-low.pdf](dwellings-of-eldervale-271055/doerulebook2024-low.pdf) |
 | Eclipse: Second Dawn for the Galaxy | [246900](https://boardgamegeek.com/boardgame/246900) | [rules.pdf](eclipse-second-dawn-for-the-galaxy-246900/rules.pdf) |
+| El Grande | [93](https://boardgamegeek.com/boardgame/93) | [web-rules.pdf](el-grande-93/web-rules.pdf) |
 | Eldritch Horror | [146021](https://boardgamegeek.com/boardgame/146021) | [pub-Eldritch_20Horror_rulebook.pdf](eldritch-horror-146021/pub-Eldritch_20Horror_rulebook.pdf) |
 | Endeavor: Deep Sea | [367966](https://boardgamegeek.com/boardgame/367966) | [ENDS_rules_web.pdf](endeavor-deep-sea-367966/ENDS_rules_web.pdf) |
 | Endeavor: Deep Sea - Uncharted Waters | [446892](https://boardgamegeek.com/boardgame/446892) | [EUW_rules_web.pdf](endeavor-deep-sea-uncharted-waters-446892/EUW_rules_web.pdf) |
@@ -172,11 +178,13 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Everdell - Spirecrest | [289056](https://boardgamegeek.com/boardgame/289056) | [spirecrest.pdf](everdell-spirecrest-289056/spirecrest.pdf) |
 | Everdell Duo | [425005](https://boardgamegeek.com/boardgame/425005) | [duo-rulebook-v06-20240712.pdf](everdell-duo-425005/duo-rulebook-v06-20240712.pdf) |
 | Everdell Farshore | [394106](https://boardgamegeek.com/boardgame/394106) | [261689.pdf](everdell-farshore-394106/261689.pdf) |
+| Everdell Silverfrost | [436821](https://boardgamegeek.com/boardgame/436821) | [web-rules.pdf](everdell-silverfrost-436821/web-rules.pdf) |
 | Exploding Kittens | [172225](https://boardgamegeek.com/boardgame/172225) | [rulebook.pdf](exploding-kittens-172225/rulebook.pdf) |
 | Exploding Kittens - Barking Kittens | [312667](https://boardgamegeek.com/boardgame/312667) | [2c-exploding-kittens-regle.pdf](exploding-kittens-barking-kittens-312667/2c-exploding-kittens-regle.pdf) |
 | Faraway | [385761](https://boardgamegeek.com/boardgame/385761) | [faraway.pdf](faraway-385761/faraway.pdf) |
 | Faraway | [385761](https://boardgamegeek.com/boardgame/385761) | [pfb.pdf](faraway-385761/pfb.pdf) |
 | Faraway - Under Starry Skies | [451708](https://boardgamegeek.com/boardgame/451708) | [FARAWAY_EXPANSION_2_-_English_Rules.pdf](faraway-under-starry-skies-451708/FARAWAY_EXPANSION_2_-_English_Rules.pdf) |
+| Final Girl | [277659](https://boardgamegeek.com/boardgame/277659) | [web-rules.pdf](final-girl-277659/web-rules.pdf) |
 | Finspan | [436126](https://boardgamegeek.com/boardgame/436126) | [fin-auto.pdf](finspan-436126/fin-auto.pdf) |
 | Finspan | [436126](https://boardgamegeek.com/boardgame/436126) | [fin.pdf](finspan-436126/fin.pdf) |
 | Finspan - Sharks & Reefs | [468426](https://boardgamegeek.com/boardgame/468426) | [finspan-automa-rulesen.pdf](finspan-sharks-reefs-468426/finspan-automa-rulesen.pdf) |
@@ -189,6 +197,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Forbidden Island | [65244](https://boardgamegeek.com/boardgame/65244) | [170552.pdf](forbidden-island-65244/170552.pdf) |
 | Frosthaven | [295770](https://boardgamegeek.com/boardgame/295770) | [252964.pdf](frosthaven-295770/252964.pdf) |
 | Frosthaven | [295770](https://boardgamegeek.com/boardgame/295770) | [252965.pdf](frosthaven-295770/252965.pdf) |
+| Gaia Project | [220308](https://boardgamegeek.com/boardgame/220308) | [web-rules.pdf](gaia-project-220308/web-rules.pdf) |
 | Gloomhaven | [174430](https://boardgamegeek.com/boardgame/174430) | [21-gloomhaven-rulebook.pdf](gloomhaven-174430/21-gloomhaven-rulebook.pdf) |
 | Gloomhaven | [174430](https://boardgamegeek.com/boardgame/174430) | [c2-gloomhaven-solo.pdf](gloomhaven-174430/c2-gloomhaven-solo.pdf) |
 | Gloomhaven - Forgotten Circles | [250337](https://boardgamegeek.com/boardgame/250337) | [Forgotten_Circles_-_Rules_Only.pdf](gloomhaven-forgotten-circles-250337/Forgotten_Circles_-_Rules_Only.pdf) |
@@ -232,6 +241,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [homm-tournament-book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/homm-tournament-book_EN.pdf) |
 | Hive | [2655](https://boardgamegeek.com/boardgame/2655) | [7724.pdf](hive-2655/7724.pdf) |
 | How Dare You? | [387763](https://boardgamegeek.com/boardgame/387763) | [260069.pdf](how-dare-you-387763/260069.pdf) |
+| Ironwood | [407343](https://boardgamegeek.com/boardgame/407343) | [web-rules.pdf](ironwood-407343/web-rules.pdf) |
 | It's a Wonderful World | [271324](https://boardgamegeek.com/boardgame/271324) | [iaww.pdf](it-s-a-wonderful-world-271324/iaww.pdf) |
 | It's a Wonderful World - Corruption & Ascension | [298851](https://boardgamegeek.com/boardgame/298851) | [iaww-asc.pdf](it-s-a-wonderful-world-corruption-ascension-298851/iaww-asc.pdf) |
 | It's a Wonderful World - Corruption & Ascension | [298851](https://boardgamegeek.com/boardgame/298851) | [iaww-ca.pdf](it-s-a-wonderful-world-corruption-ascension-298851/iaww-ca.pdf) |
@@ -256,6 +266,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Kingdomino | [204583](https://boardgamegeek.com/boardgame/204583) | [152970.pdf](kingdomino-204583/152970.pdf) |
 | Le Havre | [35677](https://boardgamegeek.com/boardgame/35677) | [rulebook.pdf](le-havre-35677/rulebook.pdf) |
 | Lisboa | [161533](https://boardgamegeek.com/boardgame/161533) | [rules.pdf](lisboa-161533/rules.pdf) |
+| Lords of Waterdeep | [110327](https://boardgamegeek.com/boardgame/110327) | [web-rules.pdf](lords-of-waterdeep-110327/web-rules.pdf) |
 | Lost Cities | [50](https://boardgamegeek.com/boardgame/50) | [116837.pdf](lost-cities-50/116837.pdf) |
 | Lost Ruins of Arnak | [312484](https://boardgamegeek.com/boardgame/312484) | [rules.pdf](lost-ruins-of-arnak-312484/rules.pdf) |
 | Lost Ruins of Arnak - Expedition Leaders cards & tiles | [341254](https://boardgamegeek.com/boardgame/341254) | [expedition-leaders-rules.pdf](lost-ruins-of-arnak-expedition-leaders-cards-341254/expedition-leaders-rules.pdf) |
@@ -272,6 +283,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Mage Knight Board Game - The Lost Legion Expansion | [130704](https://boardgamegeek.com/boardgame/130704) | [MK1_rulebook_ENG_searchable.pdf](mage-knight-board-game-the-lost-legion-expans-130704/MK1_rulebook_ENG_searchable.pdf) |
 | Mansions of Madness: Second Edition | [205059](https://boardgamegeek.com/boardgame/205059) | [rules.pdf](mansions-of-madness-second-edition-205059/rules.pdf) |
 | Maracaibo | [276025](https://boardgamegeek.com/boardgame/276025) | [rules.pdf](maracaibo-276025/rules.pdf) |
+| Marvel Champions: The Card Game | [285774](https://boardgamegeek.com/boardgame/285774) | [web-rules.pdf](marvel-champions-the-card-game-285774/web-rules.pdf) |
 | Marvel Villainous: Infinite Power | [302336](https://boardgamegeek.com/boardgame/302336) | [205820.pdf](marvel-villainous-infinite-power-302336/205820.pdf) |
 | Mechs vs. Minions | [209010](https://boardgamegeek.com/boardgame/209010) | [rules.pdf](mechs-vs-minions-209010/rules.pdf) |
 | Mindbug: First Contact | [345584](https://boardgamegeek.com/boardgame/345584) | [40-mindbug-rulebook.pdf](mindbug-first-contact-345584/40-mindbug-rulebook.pdf) |
@@ -285,6 +297,9 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Munchkin | [1927](https://boardgamegeek.com/boardgame/1927) | [3069.pdf](munchkin-1927/3069.pdf) |
 | Mysterium | [181304](https://boardgamegeek.com/boardgame/181304) | [rulebook.pdf](mysterium-181304/rulebook.pdf) |
 | Nemesis | [167355](https://boardgamegeek.com/boardgame/167355) | [rulebook.pdf](nemesis-167355/rulebook.pdf) |
+| Not Enough Mana | [343990](https://boardgamegeek.com/boardgame/343990) | [web-rules.pdf](not-enough-mana-343990/web-rules.pdf) |
+| Oathsworn: Into the Deepwood | [251661](https://boardgamegeek.com/boardgame/251661) | [encounter-rule-book.pdf](oathsworn-into-the-deepwood-251661/encounter-rule-book.pdf) |
+| Oathsworn: Into the Deepwood | [251661](https://boardgamegeek.com/boardgame/251661) | [story-rule-book.pdf](oathsworn-into-the-deepwood-251661/story-rule-book.pdf) |
 | Obsession | [231733](https://boardgamegeek.com/boardgame/231733) | [rules.pdf](obsession-231733/rules.pdf) |
 | On Mars | [184267](https://boardgamegeek.com/boardgame/184267) | [rules.pdf](on-mars-184267/rules.pdf) |
 | One Night Ultimate Werewolf | [147949](https://boardgamegeek.com/boardgame/147949) | [109882.pdf](one-night-ultimate-werewolf-147949/109882.pdf) |
@@ -369,7 +384,9 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Terra Mystica | [120677](https://boardgamegeek.com/boardgame/120677) | [rulebook.pdf](terra-mystica-120677/rulebook.pdf) |
 | Terraforming Mars | [167791](https://boardgamegeek.com/boardgame/167791) | [135533.pdf](terraforming-mars-167791/135533.pdf) |
 | The Castles of Burgundy | [84876](https://boardgamegeek.com/boardgame/84876) | [the-castles-of-burgundy-rulebook.pdf](the-castles-of-burgundy-84876/the-castles-of-burgundy-rulebook.pdf) |
+| The Crew: Mission Deep Sea | [324856](https://boardgamegeek.com/boardgame/324856) | [web-rules.pdf](the-crew-mission-deep-sea-324856/web-rules.pdf) |
 | The Crew: The Quest for Planet Nine | [284083](https://boardgamegeek.com/boardgame/284083) | [194487.pdf](the-crew-the-quest-for-planet-nine-284083/194487.pdf) |
+| The Dwarves | [124668](https://boardgamegeek.com/boardgame/124668) | [the-dwarves-cz.pdf](the-dwarves-124668/the-dwarves-cz.pdf) |
 | The Gallerist | [125153](https://boardgamegeek.com/boardgame/125153) | [116846.pdf](the-gallerist-125153/116846.pdf) |
 | The Great Wall | [292375](https://boardgamegeek.com/boardgame/292375) | [10-the-great-wall-rulebook.pdf](the-great-wall-292375/10-the-great-wall-rulebook.pdf) |
 | The Great Wall - Stretch Goals | [349733](https://boardgamegeek.com/boardgame/349733) | [e4-the-great-wall-regle.pdf](the-great-wall-stretch-goals-349733/e4-the-great-wall-regle.pdf) |
@@ -380,6 +397,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game | [429293](https://boardgamegeek.com/boardgame/429293) | [290209.pdf](the-lord-of-the-rings-the-fellowship-of-the-r-429293/290209.pdf) |
 | The Lord of the Rings: The Two Towers – Trick-Taking Game | [448271](https://boardgamegeek.com/boardgame/448271) | [Two_Towers_Rulebook__English_WEB.pdf](the-lord-of-the-rings-the-two-towers-trick-ta-448271/Two_Towers_Rulebook__English_WEB.pdf) |
 | The Mind | [244992](https://boardgamegeek.com/boardgame/244992) | [25-the-mind-rulebook.pdf](the-mind-244992/25-the-mind-rulebook.pdf) |
+| The Mind: Soulmates | [378851](https://boardgamegeek.com/boardgame/378851) | [web-rules.pdf](the-mind-soulmates-378851/web-rules.pdf) |
 | The Old King's Crown | [357873](https://boardgamegeek.com/boardgame/357873) | [306501.pdf](the-old-king-s-crown-357873/306501.pdf) |
 | The Quest for El Dorado | [217372](https://boardgamegeek.com/boardgame/217372) | [152399.pdf](the-quest-for-el-dorado-217372/152399.pdf) |
 | The Resistance | [41114](https://boardgamegeek.com/boardgame/41114) | [the-resistance-rulebook.pdf](the-resistance-41114/the-resistance-rulebook.pdf) |
@@ -392,6 +410,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | The Witcher: Path of Destiny - Wild Hunt (one vs all) | [404367](https://boardgamegeek.com/boardgame/404367) | [PoD_ENG_-_Wild_Hunt_rulebook_WEB.pdf](the-witcher-path-of-destiny-wild-hunt-one-vs-404367/PoD_ENG_-_Wild_Hunt_rulebook_WEB.pdf) |
 | Through the Ages: A New Story of Civilization | [182028](https://boardgamegeek.com/boardgame/182028) | [pub-rules.pdf](through-the-ages-a-new-story-of-civilization-182028/pub-rules.pdf) |
 | Ticket to Ride | [9209](https://boardgamegeek.com/boardgame/9209) | [rulebook.pdf](ticket-to-ride-9209/rulebook.pdf) |
+| Ticket to Ride Legacy: Legends of the West | [390092](https://boardgamegeek.com/boardgame/390092) | [web-rules.pdf](ticket-to-ride-legacy-legends-of-the-west-390092/web-rules.pdf) |
 | Ticket to Ride: Europe | [14996](https://boardgamegeek.com/boardgame/14996) | [rulebook.pdf](ticket-to-ride-europe-14996/rulebook.pdf) |
 | Time's Up! Party | [38713](https://boardgamegeek.com/boardgame/38713) | [1e-times-up-rulebook.pdf](time-s-up-party-38713/1e-times-up-rulebook.pdf) |
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [garg-reference-sheet-22.pdf](too-many-bones-192135/garg-reference-sheet-22.pdf) |
