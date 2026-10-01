@@ -264,7 +264,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Unmatched - Bruce Lee | [279645](https://boardgamegeek.com/boardgame/279645) | [a9-unmatched-buffy-the-vampire-slayer-rulebook.pdf](unmatched-bruce-lee-279645/a9-unmatched-buffy-the-vampire-slayer-rulebook.pdf) |
 | Unmatched - Bruce Lee | [279645](https://boardgamegeek.com/boardgame/279645) | [ee-unmatched-robin-hood-vs-bigfoot-rulebook.pdf](unmatched-bruce-lee-279645/ee-unmatched-robin-hood-vs-bigfoot-rulebook.pdf) |
 | Unmatched: Jurassic Park – Dr. Sattler vs. T. Rex | [284778](https://boardgamegeek.com/boardgame/284778) | [Unmatched-JP2-DrSattlerVsTrexRules.pdf](unmatched-jurassic-park-dr-sattler-vs-t-rex-284778/Unmatched-JP2-DrSattlerVsTrexRules.pdf) |
-| Voidfall | [337627](https://boardgamegeek.com/boardgame/337627) | [rules.pdf](voidfall-337627/rules.pdf) |
+| Voidfall | [337627](https://boardgamegeek.com/boardgame/337627) | [rulebook.pdf](voidfall-337627/rulebook.pdf) |
 | War of the Ring - Warriors of Middle-earth | [179404](https://boardgamegeek.com/boardgame/179404) | [Warriors_of_Middle-earth_Complete_Rules_and_Summary_v2.1.pdf](war-of-the-ring-warriors-of-middle-earth-179404/Warriors_of_Middle-earth_Complete_Rules_and_Summary_v2.1.pdf) |
 | War of the Ring: Second Edition | [115746](https://boardgamegeek.com/boardgame/115746) | [WoTR_Game_Tables_r3.0_-_base_game.pdf](war-of-the-ring-second-edition-115746/WoTR_Game_Tables_r3.0_-_base_game.pdf) |
 | War of the Ring: Second Edition | [115746](https://boardgamegeek.com/boardgame/115746) | [WotR_Example_of_Play_(UvG_1.4).pdf](war-of-the-ring-second-edition-115746/WotR_Example_of_Play_(UvG_1.4).pdf) |
