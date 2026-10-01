@@ -48,9 +48,11 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Disney Villainous: The Worst Takes it All | [256382](https://boardgamegeek.com/boardgame/256382) | [3d-disney-villainous-rulebook.pdf](disney-villainous-the-worst-takes-it-all-256382/3d-disney-villainous-rulebook.pdf) |
 | Dixit | [39856](https://boardgamegeek.com/boardgame/39856) | [3d-dixit-rulebook.pdf](dixit-39856/3d-dixit-rulebook.pdf) |
 | Dominion (Second Edition) Big Box | [216849](https://boardgamegeek.com/boardgame/216849) | [dominion-2nd-rules.pdf](dominion-second-edition-big-box-216849/dominion-2nd-rules.pdf) |
+| Dune: War for Arrakis | [367150](https://boardgamegeek.com/boardgame/367150) | [dune-war-for-arrakis-rulebook.pdf](dune-war-for-arrakis-367150/dune-war-for-arrakis-rulebook.pdf) |
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doeappendix2024-low.pdf](dwellings-of-eldervale-271055/doeappendix2024-low.pdf) |
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doeghostsrulebook2024-low.pdf](dwellings-of-eldervale-271055/doeghostsrulebook2024-low.pdf) |
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doerulebook2024-low.pdf](dwellings-of-eldervale-271055/doerulebook2024-low.pdf) |
+| Endeavor: Deep Sea | [367966](https://boardgamegeek.com/boardgame/367966) | [ENDS_rules_web.pdf](endeavor-deep-sea-367966/ENDS_rules_web.pdf) |
 | Everdell Duo | [425005](https://boardgamegeek.com/boardgame/425005) | [duo-rulebook-v06-20240712.pdf](everdell-duo-425005/duo-rulebook-v06-20240712.pdf) |
 | Exploding Kittens: NSFW Edition | [172242](https://boardgamegeek.com/boardgame/172242) | [08-exploding-kittens-rules.pdf](exploding-kittens-nsfw-edition-172242/08-exploding-kittens-rules.pdf) |
 | Faraway | [385761](https://boardgamegeek.com/boardgame/385761) | [pfb.pdf](faraway-385761/pfb.pdf) |
@@ -65,6 +67,29 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Golem | [298383](https://boardgamegeek.com/boardgame/298383) | [da-golem-automa-rulebook.pdf](golem-298383/da-golem-automa-rulebook.pdf) |
 | Golem | [298383](https://boardgamegeek.com/boardgame/298383) | [fa-golem-rulebook.pdf](golem-298383/fa-golem-rulebook.pdf) |
 | Harry Potter: Hogwarts Battle – Defence Against the Dark Arts | [254192](https://boardgamegeek.com/boardgame/254192) | [64-harry-potter-hogwarts-battle-rulebook.pdf](harry-potter-hogwarts-battle-defence-against-254192/64-harry-potter-hogwarts-battle-rulebook.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [ENG HoMM - Rulebook Supplement - WEB_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/ENG%20HoMM%20-%20Rulebook%20Supplement%20-%20WEB_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Battlefield-Content-Guide_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Battlefield-Content-Guide_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Conflux-Mission-Book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Conflux-Mission-Book_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Core-Game-Content-Guide_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Core-Game-Content-Guide_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Cove-Mission-Book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Cove-Mission-Book_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Fortress-Content-Guide_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Fortress-Content-Guide_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Inferno-Content-Guide_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Inferno-Content-Guide_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Naval-Battles-Mission-Book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Naval-Battles-Mission-Book_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Rampart-Content-Guide_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Rampart-Content-Guide_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-SG2-Mission-Book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-SG2-Mission-Book_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Stronghold-Mission-Book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Stronghold-Mission-Book_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Tower+SG-Content-Guide_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Tower+SG-Content-Guide_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Trays-Guide-BB2_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Trays-Guide-BB2_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Trays-Guide_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Trays-Guide_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [homm-battlefield-rulebook_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/homm-battlefield-rulebook_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [homm-designers-commentary_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/homm-designers-commentary_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [homm-fortress-mission-book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/homm-fortress-mission-book_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [homm-inferno-mission-book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/homm-inferno-mission-book_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [homm-mission-book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/homm-mission-book_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [homm-rampart-mission-book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/homm-rampart-mission-book_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [homm-rulebook_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/homm-rulebook_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [homm-sg-mission-book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/homm-sg-mission-book_EN.pdf) |
+| Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [homm-tournament-book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/homm-tournament-book_EN.pdf) |
 | Jaipur | [54043](https://boardgamegeek.com/boardgame/54043) | [df-jaipur-rulebook.pdf](jaipur-54043/df-jaipur-rulebook.pdf) |
 | Just One | [254640](https://boardgamegeek.com/boardgame/254640) | [8f-just-one-rulebook.pdf](just-one-254640/8f-just-one-rulebook.pdf) |
 | King of Tokyo: Monster Box | [336755](https://boardgamegeek.com/boardgame/336755) | [9b-king-of-tokyo-rulebook.pdf](king-of-tokyo-monster-box-336755/9b-king-of-tokyo-rulebook.pdf) |
@@ -75,6 +100,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Lost Ruins of Arnak - Spider Temple (Twisted Paths) | [439816](https://boardgamegeek.com/boardgame/439816) | [lost-ruins-of-arnak-twisted-paths-rules-en.pdf](lost-ruins-of-arnak-spider-temple-twisted-pat-439816/lost-ruins-of-arnak-twisted-paths-rules-en.pdf) |
 | Mage Knight Board Game | [96848](https://boardgamegeek.com/boardgame/96848) | [MK_rulebook_EN.pdf](mage-knight-board-game-96848/MK_rulebook_EN.pdf) |
 | Mage Knight Board Game | [96848](https://boardgamegeek.com/boardgame/96848) | [MK_walkthrough_EN.pdf](mage-knight-board-game-96848/MK_walkthrough_EN.pdf) |
+| Mage Knight Board Game | [96848](https://boardgamegeek.com/boardgame/96848) | [Mage_Knight_Solo_Scenario_Book_V3.pdf](mage-knight-board-game-96848/Mage_Knight_Solo_Scenario_Book_V3.pdf) |
 | Mindbug: First Contact | [345584](https://boardgamegeek.com/boardgame/345584) | [40-mindbug-rulebook.pdf](mindbug-first-contact-345584/40-mindbug-rulebook.pdf) |
 | Rising Sun | [205896](https://boardgamegeek.com/boardgame/205896) | [5b-rising-sun-rulebook.pdf](rising-sun-205896/5b-rising-sun-rulebook.pdf) |
 | Root | [237182](https://boardgamegeek.com/boardgame/237182) | [8f-low-of-root.pdf](root-237182/8f-low-of-root.pdf) |
@@ -115,6 +141,8 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [tmb-character-sheets-2x.pdf](too-many-bones-192135/tmb-character-sheets-2x.pdf) |
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [tmb-rulebook-22.pdf](too-many-bones-192135/tmb-rulebook-22.pdf) |
 | Unmatched: Jurassic Park – Dr. Sattler vs. T. Rex | [284778](https://boardgamegeek.com/boardgame/284778) | [Unmatched-JP2-DrSattlerVsTrexRules.pdf](unmatched-jurassic-park-dr-sattler-vs-t-rex-284778/Unmatched-JP2-DrSattlerVsTrexRules.pdf) |
+| War of the Ring: Second Edition | [115746](https://boardgamegeek.com/boardgame/115746) | [WoTR_Game_Tables_r3.0_-_base_game.pdf](war-of-the-ring-second-edition-115746/WoTR_Game_Tables_r3.0_-_base_game.pdf) |
+| War of the Ring: Second Edition | [115746](https://boardgamegeek.com/boardgame/115746) | [WotR_Example_of_Play_(UvG_1.4).pdf](war-of-the-ring-second-edition-115746/WotR_Example_of_Play_(UvG_1.4).pdf) |
 | Wingspan Asia | [366161](https://boardgamegeek.com/boardgame/366161) | [ws-asia-appendix.pdf](wingspan-asia-366161/ws-asia-appendix.pdf) |
 | Wingspan Asia | [366161](https://boardgamegeek.com/boardgame/366161) | [ws-asia-automarulebook.pdf](wingspan-asia-366161/ws-asia-automarulebook.pdf) |
 | Wingspan Asia | [366161](https://boardgamegeek.com/boardgame/366161) | [ws-asia-rulebook-r9.pdf](wingspan-asia-366161/ws-asia-rulebook-r9.pdf) |
