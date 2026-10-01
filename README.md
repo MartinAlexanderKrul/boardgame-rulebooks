@@ -189,7 +189,6 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Harry Potter: Hogwarts Battle | [199042](https://boardgamegeek.com/boardgame/199042) | [142744.pdf](harry-potter-hogwarts-battle-199042/142744.pdf) |
 | Harry Potter: Hogwarts Battle – Defence Against the Dark Arts | [254192](https://boardgamegeek.com/boardgame/254192) | [64-harry-potter-hogwarts-battle-rulebook.pdf](harry-potter-hogwarts-battle-defence-against-254192/64-harry-potter-hogwarts-battle-rulebook.pdf) |
 | Heat: Pedal to the Metal | [366013](https://boardgamegeek.com/boardgame/366013) | [rulebook.pdf](heat-pedal-to-the-metal-366013/rulebook.pdf) |
-| Hegemony: Lead Your Class to Victory | [321608](https://boardgamegeek.com/boardgame/321608) | [281779.pdf](hegemony-lead-your-class-to-victory-321608/281779.pdf) |
 | Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [ENG HoMM - Rulebook Supplement - WEB_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/ENG%20HoMM%20-%20Rulebook%20Supplement%20-%20WEB_EN.pdf) |
 | Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Battlefield-Content-Guide_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Battlefield-Content-Guide_EN.pdf) |
 | Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Conflux-Mission-Book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Conflux-Mission-Book_EN.pdf) |
