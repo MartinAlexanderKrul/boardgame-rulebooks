@@ -78,6 +78,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Cascadia - Landmarks (tiles & tokens) | [385318](https://boardgamegeek.com/boardgame/385318) | [casc-lm.pdf](cascadia-landmarks-tiles-tokens-385318/casc-lm.pdf) |
 | Catan: Big Box | [191710](https://boardgamegeek.com/boardgame/191710) | [fd-catan-rulebook.pdf](catan-big-box-191710/fd-catan-rulebook.pdf) |
 | Caverna: The Cave Farmers | [102794](https://boardgamegeek.com/boardgame/102794) | [rulebook.pdf](caverna-the-cave-farmers-102794/rulebook.pdf) |
+| Citadels | [478](https://boardgamegeek.com/boardgame/478) | [rulebook.pdf](citadels-478/rulebook.pdf) |
 | Claim - Dark Elves | [292096](https://boardgamegeek.com/boardgame/292096) | [Claim_DarkElves_rules_ENG.PDF](claim-dark-elves-292096/Claim_DarkElves_rules_ENG.PDF) |
 | Claim - Reinforcements - Fear | [305656](https://boardgamegeek.com/boardgame/305656) | [ClaimReinforcements_Fear.pdf](claim-reinforcements-fear-305656/ClaimReinforcements_Fear.pdf) |
 | Claim - Reinforcements - Magic | [287199](https://boardgamegeek.com/boardgame/287199) | [Claim_Reinforcements_Magic_rules.pdf](claim-reinforcements-magic-287199/Claim_Reinforcements_Magic_rules.pdf) |
@@ -159,8 +160,8 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Everdell - Spirecrest | [289056](https://boardgamegeek.com/boardgame/289056) | [spirecrest.pdf](everdell-spirecrest-289056/spirecrest.pdf) |
 | Everdell Duo | [425005](https://boardgamegeek.com/boardgame/425005) | [duo-rulebook-v06-20240712.pdf](everdell-duo-425005/duo-rulebook-v06-20240712.pdf) |
 | Everdell Farshore | [394106](https://boardgamegeek.com/boardgame/394106) | [261689.pdf](everdell-farshore-394106/261689.pdf) |
+| Exploding Kittens | [172225](https://boardgamegeek.com/boardgame/172225) | [rulebook.pdf](exploding-kittens-172225/rulebook.pdf) |
 | Exploding Kittens - Barking Kittens | [312667](https://boardgamegeek.com/boardgame/312667) | [2c-exploding-kittens-regle.pdf](exploding-kittens-barking-kittens-312667/2c-exploding-kittens-regle.pdf) |
-| Exploding Kittens: NSFW Edition | [172242](https://boardgamegeek.com/boardgame/172242) | [08-exploding-kittens-rules.pdf](exploding-kittens-nsfw-edition-172242/08-exploding-kittens-rules.pdf) |
 | Faraway | [385761](https://boardgamegeek.com/boardgame/385761) | [faraway.pdf](faraway-385761/faraway.pdf) |
 | Faraway | [385761](https://boardgamegeek.com/boardgame/385761) | [pfb.pdf](faraway-385761/pfb.pdf) |
 | Faraway - Under Starry Skies | [451708](https://boardgamegeek.com/boardgame/451708) | [FARAWAY_EXPANSION_2_-_English_Rules.pdf](faraway-under-starry-skies-451708/FARAWAY_EXPANSION_2_-_English_Rules.pdf) |
@@ -184,6 +185,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Golem - Seals & Deals | [455453](https://boardgamegeek.com/boardgame/455453) | [Golem_Exp_Rules_ENG_low_res.pdf](golem-seals-deals-455453/Golem_Exp_Rules_ENG_low_res.pdf) |
 | Grand Austria Hotel | [182874](https://boardgamegeek.com/boardgame/182874) | [rulebook.pdf](grand-austria-hotel-182874/rulebook.pdf) |
 | Great Western Trail | [193738](https://boardgamegeek.com/boardgame/193738) | [rulebook.pdf](great-western-trail-193738/rulebook.pdf) |
+| Hanabi | [98778](https://boardgamegeek.com/boardgame/98778) | [rulebook.pdf](hanabi-98778/rulebook.pdf) |
 | Harmonies | [414317](https://boardgamegeek.com/boardgame/414317) | [276502.pdf](harmonies-414317/276502.pdf) |
 | Harry Potter: Death Eaters Rising | [283211](https://boardgamegeek.com/boardgame/283211) | [190970.pdf](harry-potter-death-eaters-rising-283211/190970.pdf) |
 | Harry Potter: Hogwarts Battle | [199042](https://boardgamegeek.com/boardgame/199042) | [142744.pdf](harry-potter-hogwarts-battle-199042/142744.pdf) |
@@ -241,6 +243,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Lost Ruins of Arnak - Missing Expedition cards & tiles | [382350](https://boardgamegeek.com/boardgame/382350) | [lost-ruins-of-arnak-the-missing-expedition-rules-en.pdf](lost-ruins-of-arnak-missing-expedition-cards-382350/lost-ruins-of-arnak-the-missing-expedition-rules-en.pdf) |
 | Lost Ruins of Arnak - Rival Objectives (solo mini) | [349092](https://boardgamegeek.com/boardgame/349092) | [lost-ruins-of-arnak-solo-mini-expansions-rules-en.pdf](lost-ruins-of-arnak-rival-objectives-solo-min-349092/lost-ruins-of-arnak-solo-mini-expansions-rules-en.pdf) |
 | Lost Ruins of Arnak - Spider Temple (Twisted Paths) | [439816](https://boardgamegeek.com/boardgame/439816) | [lost-ruins-of-arnak-twisted-paths-rules-en.pdf](lost-ruins-of-arnak-spider-temple-twisted-pat-439816/lost-ruins-of-arnak-twisted-paths-rules-en.pdf) |
+| Love Letter | [129622](https://boardgamegeek.com/boardgame/129622) | [rulebook.pdf](love-letter-129622/rulebook.pdf) |
 | Mage Knight - The Apocalypse Dragon | [416403](https://boardgamegeek.com/boardgame/416403) | [Mage-Knight-The-Apocalypse-Dragon---Rulebook-WEB.pdf](mage-knight-the-apocalypse-dragon-416403/Mage-Knight-The-Apocalypse-Dragon---Rulebook-WEB.pdf) |
 | Mage Knight Board Game | [96848](https://boardgamegeek.com/boardgame/96848) | [MK_rulebook_EN.pdf](mage-knight-board-game-96848/MK_rulebook_EN.pdf) |
 | Mage Knight Board Game | [96848](https://boardgamegeek.com/boardgame/96848) | [MK_walkthrough_EN.pdf](mage-knight-board-game-96848/MK_walkthrough_EN.pdf) |
@@ -258,6 +261,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Moonrakers - Binding Ties | [366450](https://boardgamegeek.com/boardgame/366450) | [Binding_Ties_Rulebook(English).pdf](moonrakers-binding-ties-366450/Binding_Ties_Rulebook(English).pdf) |
 | Moonrakers - Nomad | [366452](https://boardgamegeek.com/boardgame/366452) | [Nomad_Rulebook(English).pdf](moonrakers-nomad-366452/Nomad_Rulebook(English).pdf) |
 | Moonrakers - Overload | [366451](https://boardgamegeek.com/boardgame/366451) | [Overload_Rulebook(English).pdf](moonrakers-overload-366451/Overload_Rulebook(English).pdf) |
+| Mysterium | [181304](https://boardgamegeek.com/boardgame/181304) | [rulebook.pdf](mysterium-181304/rulebook.pdf) |
 | Nemesis | [167355](https://boardgamegeek.com/boardgame/167355) | [rulebook.pdf](nemesis-167355/rulebook.pdf) |
 | Obsession | [231733](https://boardgamegeek.com/boardgame/231733) | [rules.pdf](obsession-231733/rules.pdf) |
 | On Mars | [184267](https://boardgamegeek.com/boardgame/184267) | [rules.pdf](on-mars-184267/rules.pdf) |
@@ -265,6 +269,8 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Paladins of the West Kingdom | [266810](https://boardgamegeek.com/boardgame/266810) | [177338.pdf](paladins-of-the-west-kingdom-266810/177338.pdf) |
 | Pandemic Legacy: Season 1 | [161936](https://boardgamegeek.com/boardgame/161936) | [123531.pdf](pandemic-legacy-season-1-161936/123531.pdf) |
 | Pantheum - Monsters & Mandates | [444371](https://boardgamegeek.com/boardgame/444371) | [Pantheum-_Demigods_of_Olympia_-_Monsters_Solo_Variant.pdf](pantheum-monsters-mandates-444371/Pantheum-_Demigods_of_Olympia_-_Monsters_Solo_Variant.pdf) |
+| Parks | [266524](https://boardgamegeek.com/boardgame/266524) | [rulebook.pdf](parks-266524/rulebook.pdf) |
+| Patchwork | [163412](https://boardgamegeek.com/boardgame/163412) | [rulebook.pdf](patchwork-163412/rulebook.pdf) |
 | Pax Pamir: Second Edition | [256960](https://boardgamegeek.com/boardgame/256960) | [174408.pdf](pax-pamir-second-edition-256960/174408.pdf) |
 | Power Grid | [2651](https://boardgamegeek.com/boardgame/2651) | [179416.pdf](power-grid-2651/179416.pdf) |
 | Puerto Rico | [3076](https://boardgamegeek.com/boardgame/3076) | [rulebook.pdf](puerto-rico-3076/rulebook.pdf) |
@@ -284,6 +290,8 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Rune Stones - Enchanted Forest | [296313](https://boardgamegeek.com/boardgame/296313) | [64-rune-stones-enchanted-forest-rulebook.pdf](rune-stones-enchanted-forest-296313/64-rune-stones-enchanted-forest-rulebook.pdf) |
 | Rune Stones - Nocturnal Creatures | [286291](https://boardgamegeek.com/boardgame/286291) | [de-rune-stones-nocturnal-creatures-rulebook.pdf](rune-stones-nocturnal-creatures-286291/de-rune-stones-nocturnal-creatures-rulebook.pdf) |
 | SETI: Search for Extraterrestrial Intelligence | [418059](https://boardgamegeek.com/boardgame/418059) | [286198.pdf](seti-search-for-extraterrestrial-intelligence-418059/286198.pdf) |
+| Sagrada | [199561](https://boardgamegeek.com/boardgame/199561) | [rulebook.pdf](sagrada-199561/rulebook.pdf) |
+| Santorini | [194655](https://boardgamegeek.com/boardgame/194655) | [rulebook.pdf](santorini-194655/rulebook.pdf) |
 | Scythe | [169786](https://boardgamegeek.com/boardgame/169786) | [scythe-automa-englishcompressed.pdf](scythe-169786/scythe-automa-englishcompressed.pdf) |
 | Scythe | [169786](https://boardgamegeek.com/boardgame/169786) | [scythe-englishcompressed.pdf](scythe-169786/scythe-englishcompressed.pdf) |
 | Scythe | [169786](https://boardgamegeek.com/boardgame/169786) | [scythe-quick-reference-guide-englishcompressed.pdf](scythe-169786/scythe-quick-reference-guide-englishcompressed.pdf) |
@@ -296,13 +304,17 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Sky Team | [373106](https://boardgamegeek.com/boardgame/373106) | [265120.pdf](sky-team-373106/265120.pdf) |
 | Slay the Spire: The Board Game | [338960](https://boardgamegeek.com/boardgame/338960) | [276680.pdf](slay-the-spire-the-board-game-338960/276680.pdf) |
 | Sleeping Gods | [255984](https://boardgamegeek.com/boardgame/255984) | [76-sleeping-gods-rulebook.pdf](sleeping-gods-255984/76-sleeping-gods-rulebook.pdf) |
+| Small World | [40692](https://boardgamegeek.com/boardgame/40692) | [rulebook.pdf](small-world-40692/rulebook.pdf) |
 | Spirit Island | [162886](https://boardgamegeek.com/boardgame/162886) | [54-spirit-island-rulebook.pdf](spirit-island-162886/54-spirit-island-rulebook.pdf) |
 | Spirit Island | [162886](https://boardgamegeek.com/boardgame/162886) | [bc.pdf](spirit-island-162886/bc.pdf) |
 | Spirit Island | [162886](https://boardgamegeek.com/boardgame/162886) | [gtg.pdf](spirit-island-162886/gtg.pdf) |
 | Spirit Island | [162886](https://boardgamegeek.com/boardgame/162886) | [je.pdf](spirit-island-162886/je.pdf) |
 | Spirit Island | [162886](https://boardgamegeek.com/boardgame/162886) | [ni.pdf](spirit-island-162886/ni.pdf) |
+| Splendor | [148228](https://boardgamegeek.com/boardgame/148228) | [rulebook.pdf](splendor-148228/rulebook.pdf) |
+| Star Realms | [147020](https://boardgamegeek.com/boardgame/147020) | [rulebook.pdf](star-realms-147020/rulebook.pdf) |
 | Star Wars: Rebellion | [187645](https://boardgamegeek.com/boardgame/187645) | [rules.pdf](star-wars-rebellion-187645/rules.pdf) |
 | Sushi Go! | [133473](https://boardgamegeek.com/boardgame/133473) | [74-sushi-go-rulebook.pdf](sushi-go-133473/74-sushi-go-rulebook.pdf) |
+| Takenoko | [70919](https://boardgamegeek.com/boardgame/70919) | [rulebook.pdf](takenoko-70919/rulebook.pdf) |
 | Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [41-talisman-revised-4th-edition-rulebook.pdf](talisman-revised-4th-edition-27627/41-talisman-revised-4th-edition-rulebook.pdf) |
 | Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm02.pdf](talisman-revised-4th-edition-27627/tm02.pdf) |
 | Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm03.pdf](talisman-revised-4th-edition-27627/tm03.pdf) |
@@ -334,6 +346,8 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | The Witcher: Path of Destiny - Legendary Monsters (co-op) | [405401](https://boardgamegeek.com/boardgame/405401) | [PoD_ENG_-_Legendary_Monsters_rulebook_WEB.pdf](the-witcher-path-of-destiny-legendary-monster-405401/PoD_ENG_-_Legendary_Monsters_rulebook_WEB.pdf) |
 | The Witcher: Path of Destiny - Naglfar | [405402](https://boardgamegeek.com/boardgame/405402) | [PoD_ENG_-_Naglfar_rulebook_WEB.pdf](the-witcher-path-of-destiny-naglfar-405402/PoD_ENG_-_Naglfar_rulebook_WEB.pdf) |
 | The Witcher: Path of Destiny - Wild Hunt (one vs all) | [404367](https://boardgamegeek.com/boardgame/404367) | [PoD_ENG_-_Wild_Hunt_rulebook_WEB.pdf](the-witcher-path-of-destiny-wild-hunt-one-vs-404367/PoD_ENG_-_Wild_Hunt_rulebook_WEB.pdf) |
+| Ticket to Ride | [9209](https://boardgamegeek.com/boardgame/9209) | [rulebook.pdf](ticket-to-ride-9209/rulebook.pdf) |
+| Ticket to Ride: Europe | [14996](https://boardgamegeek.com/boardgame/14996) | [rulebook.pdf](ticket-to-ride-europe-14996/rulebook.pdf) |
 | Time's Up! Party | [38713](https://boardgamegeek.com/boardgame/38713) | [1e-times-up-rulebook.pdf](time-s-up-party-38713/1e-times-up-rulebook.pdf) |
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [garg-reference-sheet-22.pdf](too-many-bones-192135/garg-reference-sheet-22.pdf) |
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [tmb-baddie-skills-reference-sheet-10.pdf](too-many-bones-192135/tmb-baddie-skills-reference-sheet-10.pdf) |
