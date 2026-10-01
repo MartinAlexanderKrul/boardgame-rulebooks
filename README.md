@@ -17,22 +17,40 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | 7 Wonders - Manneken Pis | [83445](https://boardgamegeek.com/boardgame/83445) | [7W_manneken_pis_light.pdf](7-wonders-manneken-pis-83445/7W_manneken_pis_light.pdf) |
 | 7 Wonders - Wonder Pack | [133993](https://boardgamegeek.com/boardgame/133993) | [83-7-wonders-wonder-pack-rulebook.pdf](7-wonders-wonder-pack-133993/83-7-wonders-wonder-pack-rulebook.pdf) |
 | 7 Wonders Duel | [173346](https://boardgamegeek.com/boardgame/173346) | [6b-7-wonders-duel-rules.pdf](7-wonders-duel-173346/6b-7-wonders-duel-rules.pdf) |
+| 7 Wonders Duel - Agora | [309116](https://boardgamegeek.com/boardgame/309116) | [7-wonders-duel-agora.pdf](7-wonders-duel-agora-309116/7-wonders-duel-agora.pdf) |
 | 7 Wonders Duel - Pantheon | [202976](https://boardgamegeek.com/boardgame/202976) | [24-7-wonders-duel-pantheon-rulebook.pdf](7-wonders-duel-pantheon-202976/24-7-wonders-duel-pantheon-rulebook.pdf) |
 | Aeon's End: The New Age | [270633](https://boardgamegeek.com/boardgame/270633) | [9e-aeons-end-rulebook.pdf](aeon-s-end-the-new-age-270633/9e-aeons-end-rulebook.pdf) |
 | Age of Galaxy | [330950](https://boardgamegeek.com/boardgame/330950) | [aog-rulebook-3.pdf](age-of-galaxy-330950/aog-rulebook-3.pdf) |
 | Akropolis | [357563](https://boardgamegeek.com/boardgame/357563) | [87-akropolis-rulebook.pdf](akropolis-357563/87-akropolis-rulebook.pdf) |
 | Akropolis - Athena | [422822](https://boardgamegeek.com/boardgame/422822) | [GIGAMIC_AKROPOLIS_ATHENA_RULES-NEWDIE-EN.pdf](akropolis-athena-422822/GIGAMIC_AKROPOLIS_ATHENA_RULES-NEWDIE-EN.pdf) |
+| Akropolis - Pantheon (co-op) | [461828](https://boardgamegeek.com/boardgame/461828) | [akropolis-pantheon.pdf](akropolis-pantheon-co-op-461828/akropolis-pantheon.pdf) |
 | Ankh: Gods of Egypt - Pantheon | [307807](https://boardgamegeek.com/boardgame/307807) | [Ankh_Gods_of_Egypt_-_Pantheon_Expansion.pdf](ankh-gods-of-egypt-pantheon-307807/Ankh_Gods_of_Egypt_-_Pantheon_Expansion.pdf) |
 | Ankh: Gods of Egypt - Pharaoh | [308505](https://boardgamegeek.com/boardgame/308505) | [Ankh_Gods_of_Egypt_-_Pharaoh_Expansion.pdf](ankh-gods-of-egypt-pharaoh-308505/Ankh_Gods_of_Egypt_-_Pharaoh_Expansion.pdf) |
 | Ark Nova | [342942](https://boardgamegeek.com/boardgame/342942) | [4c-ark-nova-rulebook.pdf](ark-nova-342942/4c-ark-nova-rulebook.pdf) |
 | Ark Nova - Marine Worlds | [368966](https://boardgamegeek.com/boardgame/368966) | [AN_Exp1_Rules_EN_0-7_low.pdf](ark-nova-marine-worlds-368966/AN_Exp1_Rules_EN_0-7_low.pdf) |
 | Ark Nova - Zoo Map Pack 1 | [368158](https://boardgamegeek.com/boardgame/368158) | [AN_MapPack1_Rules_EN_V1_Web.pdf](ark-nova-zoo-map-pack-1-368158/AN_MapPack1_Rules_EN_V1_Web.pdf) |
+| BANG! | [3955](https://boardgamegeek.com/boardgame/3955) | [BANG! Dice Game_Rules_ENG.pdf](bang-3955/BANG!%20Dice%20Game_Rules_ENG.pdf) |
+| BANG! | [3955](https://boardgamegeek.com/boardgame/3955) | [BANG!DiceExplosion_rule_ENG.pdf](bang-3955/BANG!DiceExplosion_rule_ENG.pdf) |
+| BANG! | [3955](https://boardgamegeek.com/boardgame/3955) | [BANG!DiceGame_OldSaloon_Rules_ENG.pdf](bang-3955/BANG!DiceGame_OldSaloon_Rules_ENG.pdf) |
+| BANG! | [3955](https://boardgamegeek.com/boardgame/3955) | [BANG!DiceGame_UndeadOrAlive_Eng_Rules.pdf](bang-3955/BANG!DiceGame_UndeadOrAlive_Eng_Rules.pdf) |
+| BANG! | [3955](https://boardgamegeek.com/boardgame/3955) | [BANG!_the_bullet_rules.pdf](bang-3955/BANG!_the_bullet_rules.pdf) |
+| BANG! | [3955](https://boardgamegeek.com/boardgame/3955) | [Bang!-DynamiteBox-ENG-Rulebook.pdf](bang-3955/Bang!-DynamiteBox-ENG-Rulebook.pdf) |
+| BANG! | [3955](https://boardgamegeek.com/boardgame/3955) | [Bang_rules_ENG.pdf](bang-3955/Bang_rules_ENG.pdf) |
 | BANG! - A Fistful of Cards | [20237](https://boardgamegeek.com/boardgame/20237) | [a_fistful_of_cards_rules.pdf](bang-a-fistful-of-cards-20237/a_fistful_of_cards_rules.pdf) |
 | BANG! - BANG! Legends | [401241](https://boardgamegeek.com/boardgame/401241) | [BANG!_Legends_ENG-Rules.pdf](bang-bang-legends-401241/BANG!_Legends_ENG-Rules.pdf) |
+| BANG! - Dodge City | [9653](https://boardgamegeek.com/boardgame/9653) | [bang_dodge_city-rules.pdf](bang-dodge-city-9653/bang_dodge_city-rules.pdf) |
+| BANG! - Gold Rush | [107794](https://boardgamegeek.com/boardgame/107794) | [bang!_gold_rush_rules.pdf](bang-gold-rush-107794/bang!_gold_rush_rules.pdf) |
 | BANG! - High Noon | [8269](https://boardgamegeek.com/boardgame/8269) | [HighNoon_rules.pdf](bang-high-noon-8269/HighNoon_rules.pdf) |
+| BANG! - The Great Train Robbery | [349886](https://boardgamegeek.com/boardgame/349886) | [BANG-TGTR-ENG-rules_WEB.pdf](bang-the-great-train-robbery-349886/BANG-TGTR-ENG-rules_WEB.pdf) |
+| BANG! - The Valley of Shadows | [130046](https://boardgamegeek.com/boardgame/130046) | [BANG_The_Valley_of_Shadows_rules.pdf](bang-the-valley-of-shadows-130046/BANG_The_Valley_of_Shadows_rules.pdf) |
+| BANG! - Wild West Show | [66508](https://boardgamegeek.com/boardgame/66508) | [BANG!_wild_west_show_rules.pdf](bang-wild-west-show-66508/BANG!_wild_west_show_rules.pdf) |
+| BANG! Expansion Pack | [183275](https://boardgamegeek.com/boardgame/183275) | [BANG-Expansion-Pack-ENG-Rules_WEB.pdf](bang-expansion-pack-183275/BANG-Expansion-Pack-ENG-Rules_WEB.pdf) |
 | BANG! High Noon/A Fistful of Cards | [161953](https://boardgamegeek.com/boardgame/161953) | [52-bang-high-noon-a-fistful-of-cards-rulebook.pdf](bang-high-noon-a-fistful-of-cards-161953/52-bang-high-noon-a-fistful-of-cards-rulebook.pdf) |
 | BANG! High Noon/A Fistful of Cards | [161953](https://boardgamegeek.com/boardgame/161953) | [64-bang-two-players.pdf](bang-high-noon-a-fistful-of-cards-161953/64-bang-two-players.pdf) |
+| BANG! High Noon/A Fistful of Cards | [161953](https://boardgamegeek.com/boardgame/161953) | [Fistful_of_Cards-High_Noon_ENG.pdf](bang-high-noon-a-fistful-of-cards-161953/Fistful_of_Cards-High_Noon_ENG.pdf) |
 | BANG! High Noon/A Fistful of Cards | [161953](https://boardgamegeek.com/boardgame/161953) | [eb-bang-rulebook.pdf](bang-high-noon-a-fistful-of-cards-161953/eb-bang-rulebook.pdf) |
+| BANG! The Duel | [182094](https://boardgamegeek.com/boardgame/182094) | [Bang_TheDuel_Rules_ENG.pdf](bang-the-duel-182094/Bang_TheDuel_Rules_ENG.pdf) |
+| BANG! The Duel - Renegades vs the Law | [288429](https://boardgamegeek.com/boardgame/288429) | [Bang_ItaEng_TheDuelRenegades_Rules-ENG.pdf](bang-the-duel-renegades-vs-the-law-288429/Bang_ItaEng_TheDuelRenegades_Rules-ENG.pdf) |
 | Blood Rage | [170216](https://boardgamegeek.com/boardgame/170216) | [c2-blood-rage-rulebook.pdf](blood-rage-170216/c2-blood-rage-rulebook.pdf) |
 | Blood Rage - Gods of Asgard | [174801](https://boardgamegeek.com/boardgame/174801) | [goa.pdf](blood-rage-gods-of-asgard-174801/goa.pdf) |
 | Blood Rage - Mystics of Midgard | [175100](https://boardgamegeek.com/boardgame/175100) | [2c-blood-rage-mystics-of-midgard-rulebook.pdf](blood-rage-mystics-of-midgard-175100/2c-blood-rage-mystics-of-midgard-rulebook.pdf) |
@@ -142,6 +160,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Jaipur | [54043](https://boardgamegeek.com/boardgame/54043) | [df-jaipur-rulebook.pdf](jaipur-54043/df-jaipur-rulebook.pdf) |
 | Just One | [254640](https://boardgamegeek.com/boardgame/254640) | [8f-just-one-rulebook.pdf](just-one-254640/8f-just-one-rulebook.pdf) |
 | Karak - Regent | [291436](https://boardgamegeek.com/boardgame/291436) | [a4-karak-rulebook.pdf](karak-regent-291436/a4-karak-rulebook.pdf) |
+| Karak - Regent | [291436](https://boardgamegeek.com/boardgame/291436) | [albi-karak-regent-rules-en.pdf](karak-regent-291436/albi-karak-regent-rules-en.pdf) |
 | King of New York - Power Up! | [193320](https://boardgamegeek.com/boardgame/193320) | [7d-king-of-new-york-rulebook.pdf](king-of-new-york-power-up-193320/7d-king-of-new-york-rulebook.pdf) |
 | King of New York - Power Up! | [193320](https://boardgamegeek.com/boardgame/193320) | [KONY-PowerUp_EN_Rules.pdf](king-of-new-york-power-up-193320/KONY-PowerUp_EN_Rules.pdf) |
 | King of Tokyo/New York - Monster Pack - Cybertooth | [282788](https://boardgamegeek.com/boardgame/282788) | [07-king-of-tokyo-new-york-monster-pack-cybertooth-rulebook.pdf](king-of-tokyo-new-york-monster-pack-cybertoot-282788/07-king-of-tokyo-new-york-monster-pack-cybertooth-rulebook.pdf) |
