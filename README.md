@@ -18,13 +18,27 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Aeon's End: The New Age | [270633](https://boardgamegeek.com/boardgame/270633) | [9e-aeons-end-rulebook.pdf](aeon-s-end-the-new-age-270633/9e-aeons-end-rulebook.pdf) |
 | Age of Galaxy | [330950](https://boardgamegeek.com/boardgame/330950) | [aog-rulebook-3.pdf](age-of-galaxy-330950/aog-rulebook-3.pdf) |
 | Akropolis | [357563](https://boardgamegeek.com/boardgame/357563) | [87-akropolis-rulebook.pdf](akropolis-357563/87-akropolis-rulebook.pdf) |
+| Akropolis - Athena | [422822](https://boardgamegeek.com/boardgame/422822) | [GIGAMIC_AKROPOLIS_ATHENA_RULES-NEWDIE-EN.pdf](akropolis-athena-422822/GIGAMIC_AKROPOLIS_ATHENA_RULES-NEWDIE-EN.pdf) |
+| Ankh - Gods of Egypt - Pantheon | [307807](https://boardgamegeek.com/boardgame/307807) | [Ankh_Gods_of_Egypt_-_Pantheon_Expansion.pdf](ankh-gods-of-egypt-pantheon-307807/Ankh_Gods_of_Egypt_-_Pantheon_Expansion.pdf) |
+| Ankh - Gods of Egypt - Pharaoh | [308505](https://boardgamegeek.com/boardgame/308505) | [Ankh_Gods_of_Egypt_-_Pharaoh_Expansion.pdf](ankh-gods-of-egypt-pharaoh-308505/Ankh_Gods_of_Egypt_-_Pharaoh_Expansion.pdf) |
 | Ark Nova | [342942](https://boardgamegeek.com/boardgame/342942) | [4c-ark-nova-rulebook.pdf](ark-nova-342942/4c-ark-nova-rulebook.pdf) |
+| Ark Nova - Marine Worlds | [368966](https://boardgamegeek.com/boardgame/368966) | [AN_Exp1_Rules_EN_0-7_low.pdf](ark-nova-marine-worlds-368966/AN_Exp1_Rules_EN_0-7_low.pdf) |
+| BANG! A Fistful of Cards | [20237](https://boardgamegeek.com/boardgame/20237) | [a_fistful_of_cards_rules.pdf](bang-a-fistful-of-cards-20237/a_fistful_of_cards_rules.pdf) |
+| BANG! High Noon | [8269](https://boardgamegeek.com/boardgame/8269) | [HighNoon_rules.pdf](bang-high-noon-8269/HighNoon_rules.pdf) |
+| BANG! Legends | [401241](https://boardgamegeek.com/boardgame/401241) | [BANG!_Legends_ENG-Rules.pdf](bang-legends-401241/BANG!_Legends_ENG-Rules.pdf) |
 | Blood Rage | [170216](https://boardgamegeek.com/boardgame/170216) | [c2-blood-rage-rulebook.pdf](blood-rage-170216/c2-blood-rage-rulebook.pdf) |
 | Blood Rage - Gods of Asgard | [174801](https://boardgamegeek.com/boardgame/174801) | [goa.pdf](blood-rage-gods-of-asgard-174801/goa.pdf) |
 | Blood Rage - Mystics of Midgard | [175100](https://boardgamegeek.com/boardgame/175100) | [2c-blood-rage-mystics-of-midgard-rulebook.pdf](blood-rage-mystics-of-midgard-175100/2c-blood-rage-mystics-of-midgard-rulebook.pdf) |
 | Bunny Kingdom | [184921](https://boardgamegeek.com/boardgame/184921) | [7f-bunny-kingdom-rulebook.pdf](bunny-kingdom-184921/7f-bunny-kingdom-rulebook.pdf) |
 | Carcassonne Big Box 6 | [230914](https://boardgamegeek.com/boardgame/230914) | [dover.pdf](carcassonne-big-box-6-230914/dover.pdf) |
 | Catan: Big Box | [191710](https://boardgamegeek.com/boardgame/191710) | [fd-catan-rulebook.pdf](catan-big-box-191710/fd-catan-rulebook.pdf) |
+| Clank! - Sunken Treasures | [218103](https://boardgamegeek.com/boardgame/218103) | [Clank_Sunken_Treasures_Rules_Sheet_v1.compressed.pdf](clank-sunken-treasures-218103/Clank_Sunken_Treasures_Rules_Sheet_v1.compressed.pdf) |
+| Clank! - The Mummy's Curse | [245377](https://boardgamegeek.com/boardgame/245377) | [Clank_The_Mummy's_Curse_Rules_v3_lo.pdf](clank-the-mummy-s-curse-245377/Clank_The_Mummy's_Curse_Rules_v3_lo.pdf) |
+| Clank! Expeditions - Gold and Silk | [257276](https://boardgamegeek.com/boardgame/257276) | [CLANK_Expeditions_Gold_and_Silk_Rules_v1_low.pdf](clank-expeditions-gold-and-silk-257276/CLANK_Expeditions_Gold_and_Silk_Rules_v1_low.pdf) |
+| Clank! Expeditions - Temple of the Ape Lords | [282426](https://boardgamegeek.com/boardgame/282426) | [Clank_Expeditions_Temple_of_the_Ape_Lords_Rulebook.pdf](clank-expeditions-temple-of-the-ape-lords-282426/Clank_Expeditions_Temple_of_the_Ape_Lords_Rulebook.pdf) |
+| Clank! In! Space! - Apocalypse! | [254470](https://boardgamegeek.com/boardgame/254470) | [CIS_Apocalypse_Rulebook_v1_low.pdf](clank-in-space-apocalypse-254470/CIS_Apocalypse_Rulebook_v1_low.pdf) |
+| Clank! In! Space! - Cyber Station 11 | [286265](https://boardgamegeek.com/boardgame/286265) | [CLANK_IN_SPACE_Cyber_Station_11_Rulebook.pdf](clank-in-space-cyber-station-11-286265/CLANK_IN_SPACE_Cyber_Station_11_Rulebook.pdf) |
+| Clank! In! Space! Adventures - Pulsarcade | [333536](https://boardgamegeek.com/boardgame/333536) | [Clank!_In!_Space!_Adventures_-_Pulsarcade.pdf](clank-in-space-adventures-pulsarcade-333536/Clank!_In!_Space!_Adventures_-_Pulsarcade.pdf) |
 | Clank!: A Deck-Building Adventure | [201808](https://boardgamegeek.com/boardgame/201808) | [ae-clank-a-deck-building-adventure-rulebook.pdf](clank-a-deck-building-adventure-201808/ae-clank-a-deck-building-adventure-rulebook.pdf) |
 | Codenames: Duet | [224037](https://boardgamegeek.com/boardgame/224037) | [03-codenames-duet-rulebook.pdf](codenames-duet-224037/03-codenames-duet-rulebook.pdf) |
 | Codenames: Harry Potter | [249821](https://boardgamegeek.com/boardgame/249821) | [99-codenames-rule.pdf](codenames-harry-potter-249821/99-codenames-rule.pdf) |
@@ -33,6 +47,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Destinies | [285192](https://boardgamegeek.com/boardgame/285192) | [8c-time-of-legends-destinies-rulebook.pdf](destinies-285192/8c-time-of-legends-destinies-rulebook.pdf) |
 | Disney Villainous: The Worst Takes it All | [256382](https://boardgamegeek.com/boardgame/256382) | [3d-disney-villainous-rulebook.pdf](disney-villainous-the-worst-takes-it-all-256382/3d-disney-villainous-rulebook.pdf) |
 | Dixit | [39856](https://boardgamegeek.com/boardgame/39856) | [3d-dixit-rulebook.pdf](dixit-39856/3d-dixit-rulebook.pdf) |
+| Dominion (Second Edition) Big Box | [216849](https://boardgamegeek.com/boardgame/216849) | [dominion-2nd-rules.pdf](dominion-second-edition-big-box-216849/dominion-2nd-rules.pdf) |
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doeappendix2024-low.pdf](dwellings-of-eldervale-271055/doeappendix2024-low.pdf) |
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doeghostsrulebook2024-low.pdf](dwellings-of-eldervale-271055/doeghostsrulebook2024-low.pdf) |
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doerulebook2024-low.pdf](dwellings-of-eldervale-271055/doerulebook2024-low.pdf) |
@@ -54,6 +69,12 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Just One | [254640](https://boardgamegeek.com/boardgame/254640) | [8f-just-one-rulebook.pdf](just-one-254640/8f-just-one-rulebook.pdf) |
 | King of Tokyo: Monster Box | [336755](https://boardgamegeek.com/boardgame/336755) | [9b-king-of-tokyo-rulebook.pdf](king-of-tokyo-monster-box-336755/9b-king-of-tokyo-rulebook.pdf) |
 | Lost Ruins of Arnak | [312484](https://boardgamegeek.com/boardgame/312484) | [rules.pdf](lost-ruins-of-arnak-312484/rules.pdf) |
+| Lost Ruins of Arnak - Expedition Leaders | [341254](https://boardgamegeek.com/boardgame/341254) | [expedition-leaders-rules.pdf](lost-ruins-of-arnak-expedition-leaders-341254/expedition-leaders-rules.pdf) |
+| Lost Ruins of Arnak - Solo Mini Expansions | [349092](https://boardgamegeek.com/boardgame/349092) | [lost-ruins-of-arnak-solo-mini-expansions-rules-en.pdf](lost-ruins-of-arnak-solo-mini-expansions-349092/lost-ruins-of-arnak-solo-mini-expansions-rules-en.pdf) |
+| Lost Ruins of Arnak - The Missing Expedition | [382350](https://boardgamegeek.com/boardgame/382350) | [lost-ruins-of-arnak-the-missing-expedition-rules-en.pdf](lost-ruins-of-arnak-the-missing-expedition-382350/lost-ruins-of-arnak-the-missing-expedition-rules-en.pdf) |
+| Lost Ruins of Arnak - Twisted Paths | [439816](https://boardgamegeek.com/boardgame/439816) | [lost-ruins-of-arnak-twisted-paths-rules-en.pdf](lost-ruins-of-arnak-twisted-paths-439816/lost-ruins-of-arnak-twisted-paths-rules-en.pdf) |
+| Mage Knight Board Game | [96848](https://boardgamegeek.com/boardgame/96848) | [MK_rulebook_EN.pdf](mage-knight-board-game-96848/MK_rulebook_EN.pdf) |
+| Mage Knight Board Game | [96848](https://boardgamegeek.com/boardgame/96848) | [MK_walkthrough_EN.pdf](mage-knight-board-game-96848/MK_walkthrough_EN.pdf) |
 | Mindbug: First Contact | [345584](https://boardgamegeek.com/boardgame/345584) | [40-mindbug-rulebook.pdf](mindbug-first-contact-345584/40-mindbug-rulebook.pdf) |
 | Rising Sun | [205896](https://boardgamegeek.com/boardgame/205896) | [5b-rising-sun-rulebook.pdf](rising-sun-205896/5b-rising-sun-rulebook.pdf) |
 | Root | [237182](https://boardgamegeek.com/boardgame/237182) | [8f-low-of-root.pdf](root-237182/8f-low-of-root.pdf) |
@@ -83,7 +104,10 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Sushi Go! | [133473](https://boardgamegeek.com/boardgame/133473) | [74-sushi-go-rulebook.pdf](sushi-go-133473/74-sushi-go-rulebook.pdf) |
 | Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [41-talisman-revised-4th-edition-rulebook.pdf](talisman-revised-4th-edition-27627/41-talisman-revised-4th-edition-rulebook.pdf) |
 | The Great Wall | [292375](https://boardgamegeek.com/boardgame/292375) | [10-the-great-wall-rulebook.pdf](the-great-wall-292375/10-the-great-wall-rulebook.pdf) |
+| The Lord of the Rings - Fate of the Fellowship | [436217](https://boardgamegeek.com/boardgame/436217) | [ZMGPSM0101_Rulebook_English_WEB.pdf](the-lord-of-the-rings-fate-of-the-fellowship-436217/ZMGPSM0101_Rulebook_English_WEB.pdf) |
+| The Lord of the Rings - The Two Towers - Trick-Taking Game | [448271](https://boardgamegeek.com/boardgame/448271) | [Two_Towers_Rulebook__English_WEB.pdf](the-lord-of-the-rings-the-two-towers-trick-taking-game-448271/Two_Towers_Rulebook__English_WEB.pdf) |
 | The Mind | [244992](https://boardgamegeek.com/boardgame/244992) | [25-the-mind-rulebook.pdf](the-mind-244992/25-the-mind-rulebook.pdf) |
+| The Witcher - Path of Destiny - Legendary Monsters | [405401](https://boardgamegeek.com/boardgame/405401) | [PoD_ENG_-_Legendary_Monsters_rulebook_WEB.pdf](the-witcher-path-of-destiny-legendary-monsters-405401/PoD_ENG_-_Legendary_Monsters_rulebook_WEB.pdf) |
 | The Witcher: Old World | [331106](https://boardgamegeek.com/boardgame/331106) | [2a-the-witcher-old-world-rulebook.pdf](the-witcher-old-world-331106/2a-the-witcher-old-world-rulebook.pdf) |
 | Time's Up! Party | [38713](https://boardgamegeek.com/boardgame/38713) | [1e-times-up-rulebook.pdf](time-s-up-party-38713/1e-times-up-rulebook.pdf) |
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [garg-reference-sheet-22.pdf](too-many-bones-192135/garg-reference-sheet-22.pdf) |
@@ -97,3 +121,5 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Wyrmspan | [410201](https://boardgamegeek.com/boardgame/410201) | [1f967421704728148.pdf](wyrmspan-410201/1f967421704728148.pdf) |
 | Wyrmspan | [410201](https://boardgamegeek.com/boardgame/410201) | [automa-rules.pdf](wyrmspan-410201/automa-rules.pdf) |
 | Wyrmspan | [410201](https://boardgamegeek.com/boardgame/410201) | [wyr-da-rulebook-r10.pdf](wyrmspan-410201/wyr-da-rulebook-r10.pdf) |
+| Škoda kouzla, které padne vedle | [409878](https://boardgamegeek.com/boardgame/409878) | [skoda-kouzla-pravidla.pdf](skoda-kouzla-ktere-padne-vedle-409878/skoda-kouzla-pravidla.pdf) |
+| Škoda kouzla, které padne vedle | [409878](https://boardgamegeek.com/boardgame/409878) | [skoda-kouzla-velke-rozsireni.pdf](skoda-kouzla-ktere-padne-vedle-409878/skoda-kouzla-velke-rozsireni.pdf) |
