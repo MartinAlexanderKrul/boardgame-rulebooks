@@ -10,8 +10,10 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | 7 Wonders - Babel: Tower | [154638](https://boardgamegeek.com/boardgame/154638) | [72-7-wonders-babel-rulebook.pdf](7-wonders-babel-tower-154638/72-7-wonders-babel-rulebook.pdf) |
 | 7 Wonders - Cities | [111661](https://boardgamegeek.com/boardgame/111661) | [88-7-wonders-rule.pdf](7-wonders-cities-111661/88-7-wonders-rule.pdf) |
 | 7 Wonders - Cities | [111661](https://boardgamegeek.com/boardgame/111661) | [ee-7-wonders-cities-rulebook.pdf](7-wonders-cities-111661/ee-7-wonders-cities-rulebook.pdf) |
+| 7 Wonders - Cities Anniversary Pack | [231168](https://boardgamegeek.com/boardgame/231168) | [5a-7-wonders-cities-anniversary-pack-rulebook.pdf](7-wonders-cities-anniversary-pack-231168/5a-7-wonders-cities-anniversary-pack-rulebook.pdf) |
 | 7 Wonders - Edifice | [378839](https://boardgamegeek.com/boardgame/378839) | [21-7-wonders-edifice-rulebook.pdf](7-wonders-edifice-378839/21-7-wonders-edifice-rulebook.pdf) |
-| 7 Wonders - Leaders | [92539](https://boardgamegeek.com/boardgame/92539) | [3c-7-wonders-leaders-rulebook.pdf](7-wonders-leaders-92539/3c-7-wonders-leaders-rulebook.pdf) |
+| 7 Wonders - Leaders Anniversary Pack | [231167](https://boardgamegeek.com/boardgame/231167) | [3c-7-wonders-leaders-rulebook.pdf](7-wonders-leaders-anniversary-pack-231167/3c-7-wonders-leaders-rulebook.pdf) |
+| 7 Wonders - Leaders Anniversary Pack | [231167](https://boardgamegeek.com/boardgame/231167) | [f5-7-wonders-leaders-anniversary-pack-rulebook.pdf](7-wonders-leaders-anniversary-pack-231167/f5-7-wonders-leaders-anniversary-pack-rulebook.pdf) |
 | 7 Wonders - Wonder Pack | [133993](https://boardgamegeek.com/boardgame/133993) | [83-7-wonders-wonder-pack-rulebook.pdf](7-wonders-wonder-pack-133993/83-7-wonders-wonder-pack-rulebook.pdf) |
 | 7 Wonders Duel | [173346](https://boardgamegeek.com/boardgame/173346) | [6b-7-wonders-duel-rules.pdf](7-wonders-duel-173346/6b-7-wonders-duel-rules.pdf) |
 | 7 Wonders Duel - Pantheon | [202976](https://boardgamegeek.com/boardgame/202976) | [24-7-wonders-duel-pantheon-rulebook.pdf](7-wonders-duel-pantheon-202976/24-7-wonders-duel-pantheon-rulebook.pdf) |
@@ -26,15 +28,21 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | BANG! - A Fistful of Cards | [20237](https://boardgamegeek.com/boardgame/20237) | [a_fistful_of_cards_rules.pdf](bang-a-fistful-of-cards-20237/a_fistful_of_cards_rules.pdf) |
 | BANG! - BANG! Legends | [401241](https://boardgamegeek.com/boardgame/401241) | [BANG!_Legends_ENG-Rules.pdf](bang-bang-legends-401241/BANG!_Legends_ENG-Rules.pdf) |
 | BANG! - High Noon | [8269](https://boardgamegeek.com/boardgame/8269) | [HighNoon_rules.pdf](bang-high-noon-8269/HighNoon_rules.pdf) |
+| BANG! High Noon/A Fistful of Cards | [161953](https://boardgamegeek.com/boardgame/161953) | [52-bang-high-noon-a-fistful-of-cards-rulebook.pdf](bang-high-noon-a-fistful-of-cards-161953/52-bang-high-noon-a-fistful-of-cards-rulebook.pdf) |
+| BANG! High Noon/A Fistful of Cards | [161953](https://boardgamegeek.com/boardgame/161953) | [64-bang-two-players.pdf](bang-high-noon-a-fistful-of-cards-161953/64-bang-two-players.pdf) |
+| BANG! High Noon/A Fistful of Cards | [161953](https://boardgamegeek.com/boardgame/161953) | [eb-bang-rulebook.pdf](bang-high-noon-a-fistful-of-cards-161953/eb-bang-rulebook.pdf) |
 | Blood Rage | [170216](https://boardgamegeek.com/boardgame/170216) | [c2-blood-rage-rulebook.pdf](blood-rage-170216/c2-blood-rage-rulebook.pdf) |
 | Blood Rage - Gods of Asgard | [174801](https://boardgamegeek.com/boardgame/174801) | [goa.pdf](blood-rage-gods-of-asgard-174801/goa.pdf) |
 | Blood Rage - Mystics of Midgard | [175100](https://boardgamegeek.com/boardgame/175100) | [2c-blood-rage-mystics-of-midgard-rulebook.pdf](blood-rage-mystics-of-midgard-175100/2c-blood-rage-mystics-of-midgard-rulebook.pdf) |
 | Bunny Kingdom | [184921](https://boardgamegeek.com/boardgame/184921) | [7f-bunny-kingdom-rulebook.pdf](bunny-kingdom-184921/7f-bunny-kingdom-rulebook.pdf) |
+| Bunny Kingdom - In the Sky | [264396](https://boardgamegeek.com/boardgame/264396) | [20-bunny-kingdom-in-the-sky-rulebook.pdf](bunny-kingdom-in-the-sky-264396/20-bunny-kingdom-in-the-sky-rulebook.pdf) |
+| Bunny Kingdom - In the Sky | [264396](https://boardgamegeek.com/boardgame/264396) | [e1-bunny-kingdom-regle.pdf](bunny-kingdom-in-the-sky-264396/e1-bunny-kingdom-regle.pdf) |
 | Carcassonne Big Box 6 | [230914](https://boardgamegeek.com/boardgame/230914) | [dover.pdf](carcassonne-big-box-6-230914/dover.pdf) |
 | Catan: Big Box | [191710](https://boardgamegeek.com/boardgame/191710) | [fd-catan-rulebook.pdf](catan-big-box-191710/fd-catan-rulebook.pdf) |
 | Clank! In! Space!: A Deck-Building Adventure - Apocalypse! | [254470](https://boardgamegeek.com/boardgame/254470) | [CIS_Apocalypse_Rulebook_v1_low.pdf](clank-in-space-a-deck-building-adventure-apoc-254470/CIS_Apocalypse_Rulebook_v1_low.pdf) |
 | Clank! In! Space!: A Deck-Building Adventure - Cyber Station 11 | [286265](https://boardgamegeek.com/boardgame/286265) | [CLANK_IN_SPACE_Cyber_Station_11_Rulebook.pdf](clank-in-space-a-deck-building-adventure-cybe-286265/CLANK_IN_SPACE_Cyber_Station_11_Rulebook.pdf) |
 | Clank! In! Space!: A Deck-Building Adventure - Pulsarcade (Master Control) | [333536](https://boardgamegeek.com/boardgame/333536) | [Clank!_In!_Space!_Adventures_-_Pulsarcade.pdf](clank-in-space-a-deck-building-adventure-puls-333536/Clank!_In!_Space!_Adventures_-_Pulsarcade.pdf) |
+| Clank! Legacy - Acquisitions Incorporated - Upper Management Pack | [275532](https://boardgamegeek.com/boardgame/275532) | [40-clank-legacy-acquisitions-incorporated-rulebook.pdf](clank-legacy-acquisitions-incorporated-upper-275532/40-clank-legacy-acquisitions-incorporated-rulebook.pdf) |
 | Clank!: A Deck-Building Adventure | [201808](https://boardgamegeek.com/boardgame/201808) | [ae-clank-a-deck-building-adventure-rulebook.pdf](clank-a-deck-building-adventure-201808/ae-clank-a-deck-building-adventure-rulebook.pdf) |
 | Clank!: A Deck-Building Adventure - Ape Lords: Jungle side | [282426](https://boardgamegeek.com/boardgame/282426) | [Clank_Expeditions_Temple_of_the_Ape_Lords_Rulebook.pdf](clank-a-deck-building-adventure-ape-lords-jun-282426/Clank_Expeditions_Temple_of_the_Ape_Lords_Rulebook.pdf) |
 | Clank!: A Deck-Building Adventure - Gold and Silk: the mine | [257276](https://boardgamegeek.com/boardgame/257276) | [CLANK_Expeditions_Gold_and_Silk_Rules_v1_low.pdf](clank-a-deck-building-adventure-gold-and-silk-257276/CLANK_Expeditions_Gold_and_Silk_Rules_v1_low.pdf) |
@@ -46,14 +54,34 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Cyclades: Legendary Edition | [380619](https://boardgamegeek.com/boardgame/380619) | [c-rulesbook-master-en-lr.pdf](cyclades-legendary-edition-380619/c-rulesbook-master-en-lr.pdf) |
 | Destinies | [285192](https://boardgamegeek.com/boardgame/285192) | [8c-time-of-legends-destinies-rulebook.pdf](destinies-285192/8c-time-of-legends-destinies-rulebook.pdf) |
 | Disney Villainous: The Worst Takes it All | [256382](https://boardgamegeek.com/boardgame/256382) | [3d-disney-villainous-rulebook.pdf](disney-villainous-the-worst-takes-it-all-256382/3d-disney-villainous-rulebook.pdf) |
-| Dixit | [39856](https://boardgamegeek.com/boardgame/39856) | [3d-dixit-rulebook.pdf](dixit-39856/3d-dixit-rulebook.pdf) |
+| Dixit 3 - Journey | [119657](https://boardgamegeek.com/boardgame/119657) | [3d-dixit-rulebook.pdf](dixit-3-journey-119657/3d-dixit-rulebook.pdf) |
 | Dominion (Second Edition) Big Box | [216849](https://boardgamegeek.com/boardgame/216849) | [dominion-2nd-rules.pdf](dominion-second-edition-big-box-216849/dominion-2nd-rules.pdf) |
+| Dominion (Second Edition) Big Box - Adventures | [171915](https://boardgamegeek.com/boardgame/171915) | [20-dominion-aventures-regle.pdf](dominion-second-edition-big-box-adventures-171915/20-dominion-aventures-regle.pdf) |
+| Dominion (Second Edition) Big Box - Adventures | [171915](https://boardgamegeek.com/boardgame/171915) | [33-dominion-adventures-rulebook.pdf](dominion-second-edition-big-box-adventures-171915/33-dominion-adventures-rulebook.pdf) |
+| Dominion (Second Edition) Big Box - Alchemy | [66098](https://boardgamegeek.com/boardgame/66098) | [15-dominion-alchemy-rulebook.pdf](dominion-second-edition-big-box-alchemy-66098/15-dominion-alchemy-rulebook.pdf) |
+| Dominion (Second Edition) Big Box - Alchemy | [66098](https://boardgamegeek.com/boardgame/66098) | [96-dominion-alchimie-regle.pdf](dominion-second-edition-big-box-alchemy-66098/96-dominion-alchimie-regle.pdf) |
+| Dominion (Second Edition) Big Box - Cornucopia | [90850](https://boardgamegeek.com/boardgame/90850) | [5c-dominion-abondance-regle.pdf](dominion-second-edition-big-box-cornucopia-90850/5c-dominion-abondance-regle.pdf) |
+| Dominion (Second Edition) Big Box - Cornucopia | [90850](https://boardgamegeek.com/boardgame/90850) | [cb-dominion-cornucopia-rulebook.pdf](dominion-second-edition-big-box-cornucopia-90850/cb-dominion-cornucopia-rulebook.pdf) |
+| Dominion (Second Edition) Big Box - Dark Ages | [125403](https://boardgamegeek.com/boardgame/125403) | [7c-dominion-dark-ages-rulebook.pdf](dominion-second-edition-big-box-dark-ages-125403/7c-dominion-dark-ages-rulebook.pdf) |
+| Dominion (Second Edition) Big Box - Dark Ages | [125403](https://boardgamegeek.com/boardgame/125403) | [f8-dominion-lage-des-tenebres-regle.pdf](dominion-second-edition-big-box-dark-ages-125403/f8-dominion-lage-des-tenebres-regle.pdf) |
+| Dominion (Second Edition) Big Box - Guilds | [137166](https://boardgamegeek.com/boardgame/137166) | [57-dominion-guilds-rulebook.pdf](dominion-second-edition-big-box-guilds-137166/57-dominion-guilds-rulebook.pdf) |
+| Dominion (Second Edition) Big Box - Guilds | [137166](https://boardgamegeek.com/boardgame/137166) | [b7-dominion-guildes-regle.pdf](dominion-second-edition-big-box-guilds-137166/b7-dominion-guildes-regle.pdf) |
+| Dominion (Second Edition) Big Box - Menagerie | [298055](https://boardgamegeek.com/boardgame/298055) | [f0-dominion-menagerie-rulebook.pdf](dominion-second-edition-big-box-menagerie-298055/f0-dominion-menagerie-rulebook.pdf) |
+| Dominion (Second Edition) Big Box - Prosperity | [66690](https://boardgamegeek.com/boardgame/66690) | [9f-dominion-prosperite-regle.pdf](dominion-second-edition-big-box-prosperity-66690/9f-dominion-prosperite-regle.pdf) |
+| Dominion (Second Edition) Big Box - Prosperity | [66690](https://boardgamegeek.com/boardgame/66690) | [fb-dominion-prosperity-rulebook.pdf](dominion-second-edition-big-box-prosperity-66690/fb-dominion-prosperity-rulebook.pdf) |
+| Dominion (Second Edition) Big Box - Seaside | [51811](https://boardgamegeek.com/boardgame/51811) | [09-dominion-seaside-rulebook.pdf](dominion-second-edition-big-box-seaside-51811/09-dominion-seaside-rulebook.pdf) |
+| Dominion (Second Edition) Big Box - Seaside | [51811](https://boardgamegeek.com/boardgame/51811) | [3f-dominion-rivages-regle.pdf](dominion-second-edition-big-box-seaside-51811/3f-dominion-rivages-regle.pdf) |
+| Dominion - Hinterlands | [104557](https://boardgamegeek.com/boardgame/104557) | [1c-dominion-hinterlands-rulebook.pdf](dominion-hinterlands-104557/1c-dominion-hinterlands-rulebook.pdf) |
+| Dominion - Hinterlands | [104557](https://boardgamegeek.com/boardgame/104557) | [c2-dominion-rulebook.pdf](dominion-hinterlands-104557/c2-dominion-rulebook.pdf) |
+| Dominion - Hinterlands | [104557](https://boardgamegeek.com/boardgame/104557) | [da-dominion-larriere-pays-regle.pdf](dominion-hinterlands-104557/da-dominion-larriere-pays-regle.pdf) |
+| Dominion - Hinterlands | [104557](https://boardgamegeek.com/boardgame/104557) | [f8-dominion-regle.pdf](dominion-hinterlands-104557/f8-dominion-regle.pdf) |
 | Dune: War for Arrakis | [367150](https://boardgamegeek.com/boardgame/367150) | [dune-war-for-arrakis-rulebook.pdf](dune-war-for-arrakis-367150/dune-war-for-arrakis-rulebook.pdf) |
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doeappendix2024-low.pdf](dwellings-of-eldervale-271055/doeappendix2024-low.pdf) |
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doeghostsrulebook2024-low.pdf](dwellings-of-eldervale-271055/doeghostsrulebook2024-low.pdf) |
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doerulebook2024-low.pdf](dwellings-of-eldervale-271055/doerulebook2024-low.pdf) |
 | Endeavor: Deep Sea | [367966](https://boardgamegeek.com/boardgame/367966) | [ENDS_rules_web.pdf](endeavor-deep-sea-367966/ENDS_rules_web.pdf) |
 | Everdell Duo | [425005](https://boardgamegeek.com/boardgame/425005) | [duo-rulebook-v06-20240712.pdf](everdell-duo-425005/duo-rulebook-v06-20240712.pdf) |
+| Exploding Kittens - Barking Kittens | [312667](https://boardgamegeek.com/boardgame/312667) | [2c-exploding-kittens-regle.pdf](exploding-kittens-barking-kittens-312667/2c-exploding-kittens-regle.pdf) |
 | Exploding Kittens: NSFW Edition | [172242](https://boardgamegeek.com/boardgame/172242) | [08-exploding-kittens-rules.pdf](exploding-kittens-nsfw-edition-172242/08-exploding-kittens-rules.pdf) |
 | Faraway | [385761](https://boardgamegeek.com/boardgame/385761) | [pfb.pdf](faraway-385761/pfb.pdf) |
 | Faraway | [385761](https://boardgamegeek.com/boardgame/385761) | [rules.pdf](faraway-385761/rules.pdf) |
@@ -92,7 +120,14 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [homm-tournament-book_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/homm-tournament-book_EN.pdf) |
 | Jaipur | [54043](https://boardgamegeek.com/boardgame/54043) | [df-jaipur-rulebook.pdf](jaipur-54043/df-jaipur-rulebook.pdf) |
 | Just One | [254640](https://boardgamegeek.com/boardgame/254640) | [8f-just-one-rulebook.pdf](just-one-254640/8f-just-one-rulebook.pdf) |
-| King of Tokyo: Monster Box | [336755](https://boardgamegeek.com/boardgame/336755) | [9b-king-of-tokyo-rulebook.pdf](king-of-tokyo-monster-box-336755/9b-king-of-tokyo-rulebook.pdf) |
+| Karak - Regent | [291436](https://boardgamegeek.com/boardgame/291436) | [a4-karak-rulebook.pdf](karak-regent-291436/a4-karak-rulebook.pdf) |
+| King of New York - Power Up! | [193320](https://boardgamegeek.com/boardgame/193320) | [7d-king-of-new-york-rulebook.pdf](king-of-new-york-power-up-193320/7d-king-of-new-york-rulebook.pdf) |
+| King of Tokyo/New York - Monster Pack - Anubis | [250532](https://boardgamegeek.com/boardgame/250532) | [bb-king-of-tokyo-new-york-monster-pack-anubis-rulebook.pdf](king-of-tokyo-new-york-monster-pack-anubis-250532/bb-king-of-tokyo-new-york-monster-pack-anubis-rulebook.pdf) |
+| King of Tokyo/New York - Monster Pack - Cybertooth | [282788](https://boardgamegeek.com/boardgame/282788) | [07-king-of-tokyo-new-york-monster-pack-cybertooth-rulebook.pdf](king-of-tokyo-new-york-monster-pack-cybertoot-282788/07-king-of-tokyo-new-york-monster-pack-cybertooth-rulebook.pdf) |
+| King of Tokyo: Monster Box - Monster Pack: Cthulhu | [207292](https://boardgamegeek.com/boardgame/207292) | [7f-king-of-tokyo-new-york-monster-pack-cthulhu-rulebook.pdf](king-of-tokyo-monster-box-monster-pack-cthulh-207292/7f-king-of-tokyo-new-york-monster-pack-cthulhu-rulebook.pdf) |
+| King of Tokyo: Monster Box - Monster Pack: Cthulhu | [207292](https://boardgamegeek.com/boardgame/207292) | [88-king-of-tokyo-regle.pdf](king-of-tokyo-monster-box-monster-pack-cthulh-207292/88-king-of-tokyo-regle.pdf) |
+| King of Tokyo: Monster Box - Monster Pack: Cthulhu | [207292](https://boardgamegeek.com/boardgame/207292) | [9b-king-of-tokyo-rulebook.pdf](king-of-tokyo-monster-box-monster-pack-cthulh-207292/9b-king-of-tokyo-rulebook.pdf) |
+| King of Tokyo: Monster Box - Monster Pack: King Kong | [233076](https://boardgamegeek.com/boardgame/233076) | [ec-king-of-tokyo-new-york-monster-pack-king-kong-rulebook.pdf](king-of-tokyo-monster-box-monster-pack-king-k-233076/ec-king-of-tokyo-new-york-monster-pack-king-kong-rulebook.pdf) |
 | Lost Ruins of Arnak | [312484](https://boardgamegeek.com/boardgame/312484) | [rules.pdf](lost-ruins-of-arnak-312484/rules.pdf) |
 | Lost Ruins of Arnak - Expedition Leaders cards & tiles | [341254](https://boardgamegeek.com/boardgame/341254) | [expedition-leaders-rules.pdf](lost-ruins-of-arnak-expedition-leaders-cards-341254/expedition-leaders-rules.pdf) |
 | Lost Ruins of Arnak - Missing Expedition cards & tiles | [382350](https://boardgamegeek.com/boardgame/382350) | [lost-ruins-of-arnak-the-missing-expedition-rules-en.pdf](lost-ruins-of-arnak-missing-expedition-cards-382350/lost-ruins-of-arnak-the-missing-expedition-rules-en.pdf) |
@@ -112,6 +147,8 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Root | [237182](https://boardgamegeek.com/boardgame/237182) | [l-river.pdf](root-237182/l-river.pdf) |
 | Root | [237182](https://boardgamegeek.com/boardgame/237182) | [l-under.pdf](root-237182/l-under.pdf) |
 | Rune Stones | [285265](https://boardgamegeek.com/boardgame/285265) | [42-rune-stones-rulebook.pdf](rune-stones-285265/42-rune-stones-rulebook.pdf) |
+| Rune Stones - Enchanted Forest | [296313](https://boardgamegeek.com/boardgame/296313) | [64-rune-stones-enchanted-forest-rulebook.pdf](rune-stones-enchanted-forest-296313/64-rune-stones-enchanted-forest-rulebook.pdf) |
+| Rune Stones - Nocturnal Creatures | [286291](https://boardgamegeek.com/boardgame/286291) | [de-rune-stones-nocturnal-creatures-rulebook.pdf](rune-stones-nocturnal-creatures-286291/de-rune-stones-nocturnal-creatures-rulebook.pdf) |
 | Scythe | [169786](https://boardgamegeek.com/boardgame/169786) | [scythe-automa-englishcompressed.pdf](scythe-169786/scythe-automa-englishcompressed.pdf) |
 | Scythe | [169786](https://boardgamegeek.com/boardgame/169786) | [scythe-englishcompressed.pdf](scythe-169786/scythe-englishcompressed.pdf) |
 | Scythe | [169786](https://boardgamegeek.com/boardgame/169786) | [scythe-quick-reference-guide-englishcompressed.pdf](scythe-169786/scythe-quick-reference-guide-englishcompressed.pdf) |
@@ -129,7 +166,20 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Spirit Island | [162886](https://boardgamegeek.com/boardgame/162886) | [ni.pdf](spirit-island-162886/ni.pdf) |
 | Sushi Go! | [133473](https://boardgamegeek.com/boardgame/133473) | [74-sushi-go-rulebook.pdf](sushi-go-133473/74-sushi-go-rulebook.pdf) |
 | Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [41-talisman-revised-4th-edition-rulebook.pdf](talisman-revised-4th-edition-27627/41-talisman-revised-4th-edition-rulebook.pdf) |
+| Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm02.pdf](talisman-revised-4th-edition-27627/tm02.pdf) |
+| Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm03.pdf](talisman-revised-4th-edition-27627/tm03.pdf) |
+| Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm04.pdf](talisman-revised-4th-edition-27627/tm04.pdf) |
+| Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm05.pdf](talisman-revised-4th-edition-27627/tm05.pdf) |
+| Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm06.pdf](talisman-revised-4th-edition-27627/tm06.pdf) |
+| Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm07.pdf](talisman-revised-4th-edition-27627/tm07.pdf) |
+| Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm08.pdf](talisman-revised-4th-edition-27627/tm08.pdf) |
+| Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm09.pdf](talisman-revised-4th-edition-27627/tm09.pdf) |
+| Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm10.pdf](talisman-revised-4th-edition-27627/tm10.pdf) |
+| Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm11.pdf](talisman-revised-4th-edition-27627/tm11.pdf) |
+| Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm15.pdf](talisman-revised-4th-edition-27627/tm15.pdf) |
+| Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm16.pdf](talisman-revised-4th-edition-27627/tm16.pdf) |
 | The Great Wall | [292375](https://boardgamegeek.com/boardgame/292375) | [10-the-great-wall-rulebook.pdf](the-great-wall-292375/10-the-great-wall-rulebook.pdf) |
+| The Great Wall - Stretch Goals | [349733](https://boardgamegeek.com/boardgame/349733) | [e4-the-great-wall-regle.pdf](the-great-wall-stretch-goals-349733/e4-the-great-wall-regle.pdf) |
 | The Lord of the Rings: Fate of the Fellowship | [436217](https://boardgamegeek.com/boardgame/436217) | [ZMGPSM0101_Rulebook_English_WEB.pdf](the-lord-of-the-rings-fate-of-the-fellowship-436217/ZMGPSM0101_Rulebook_English_WEB.pdf) |
 | The Lord of the Rings: The Two Towers – Trick-Taking Game | [448271](https://boardgamegeek.com/boardgame/448271) | [Two_Towers_Rulebook__English_WEB.pdf](the-lord-of-the-rings-the-two-towers-trick-ta-448271/Two_Towers_Rulebook__English_WEB.pdf) |
 | The Mind | [244992](https://boardgamegeek.com/boardgame/244992) | [25-the-mind-rulebook.pdf](the-mind-244992/25-the-mind-rulebook.pdf) |
@@ -140,6 +190,10 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [tmb-baddie-skills-reference-sheet-10.pdf](too-many-bones-192135/tmb-baddie-skills-reference-sheet-10.pdf) |
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [tmb-character-sheets-2x.pdf](too-many-bones-192135/tmb-character-sheets-2x.pdf) |
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [tmb-rulebook-22.pdf](too-many-bones-192135/tmb-rulebook-22.pdf) |
+| Unmatched - Bruce Lee | [279645](https://boardgamegeek.com/boardgame/279645) | [19-unmatched-battle-of-legends-volume-one-rulebook.pdf](unmatched-bruce-lee-279645/19-unmatched-battle-of-legends-volume-one-rulebook.pdf) |
+| Unmatched - Bruce Lee | [279645](https://boardgamegeek.com/boardgame/279645) | [8b-unmatched-jurassic-park-ingen-vs-raptors-rulebook.pdf](unmatched-bruce-lee-279645/8b-unmatched-jurassic-park-ingen-vs-raptors-rulebook.pdf) |
+| Unmatched - Bruce Lee | [279645](https://boardgamegeek.com/boardgame/279645) | [a9-unmatched-buffy-the-vampire-slayer-rulebook.pdf](unmatched-bruce-lee-279645/a9-unmatched-buffy-the-vampire-slayer-rulebook.pdf) |
+| Unmatched - Bruce Lee | [279645](https://boardgamegeek.com/boardgame/279645) | [ee-unmatched-robin-hood-vs-bigfoot-rulebook.pdf](unmatched-bruce-lee-279645/ee-unmatched-robin-hood-vs-bigfoot-rulebook.pdf) |
 | Unmatched: Jurassic Park – Dr. Sattler vs. T. Rex | [284778](https://boardgamegeek.com/boardgame/284778) | [Unmatched-JP2-DrSattlerVsTrexRules.pdf](unmatched-jurassic-park-dr-sattler-vs-t-rex-284778/Unmatched-JP2-DrSattlerVsTrexRules.pdf) |
 | War of the Ring: Second Edition | [115746](https://boardgamegeek.com/boardgame/115746) | [WoTR_Game_Tables_r3.0_-_base_game.pdf](war-of-the-ring-second-edition-115746/WoTR_Game_Tables_r3.0_-_base_game.pdf) |
 | War of the Ring: Second Edition | [115746](https://boardgamegeek.com/boardgame/115746) | [WotR_Example_of_Play_(UvG_1.4).pdf](war-of-the-ring-second-edition-115746/WotR_Example_of_Play_(UvG_1.4).pdf) |
