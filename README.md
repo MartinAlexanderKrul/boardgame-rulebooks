@@ -65,7 +65,6 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Blood Rage - Gods of Asgard | [174801](https://boardgamegeek.com/boardgame/174801) | [goa.pdf](blood-rage-gods-of-asgard-174801/goa.pdf) |
 | Blood Rage - Mystics of Midgard | [175100](https://boardgamegeek.com/boardgame/175100) | [2c-blood-rage-mystics-of-midgard-rulebook.pdf](blood-rage-mystics-of-midgard-175100/2c-blood-rage-mystics-of-midgard-rulebook.pdf) |
 | Blood on the Clocktower | [240980](https://boardgamegeek.com/boardgame/240980) | [253824.pdf](blood-on-the-clocktower-240980/253824.pdf) |
-| Bohnanza | [11](https://boardgamegeek.com/boardgame/11) | [323153.pdf](bohnanza-11/323153.pdf) |
 | Bomb Busters | [413246](https://boardgamegeek.com/boardgame/413246) | [282791.pdf](bomb-busters-413246/282791.pdf) |
 | Brass: Birmingham | [224517](https://boardgamegeek.com/boardgame/224517) | [rulebook.pdf](brass-birmingham-224517/rulebook.pdf) |
 | Brass: Lancashire | [28720](https://boardgamegeek.com/boardgame/28720) | [brass-lancashire-rulebook.pdf](brass-lancashire-28720/brass-lancashire-rulebook.pdf) |
