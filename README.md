@@ -85,6 +85,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Cascadia | [295947](https://boardgamegeek.com/boardgame/295947) | [cascadia.pdf](cascadia-295947/cascadia.pdf) |
 | Cascadia | [295947](https://boardgamegeek.com/boardgame/295947) | [rulebook.pdf](cascadia-295947/rulebook.pdf) |
 | Cascadia - Landmarks (tiles & tokens) | [385318](https://boardgamegeek.com/boardgame/385318) | [casc-lm.pdf](cascadia-landmarks-tiles-tokens-385318/casc-lm.pdf) |
+| Casting Shadows | [359502](https://boardgamegeek.com/boardgame/359502) | [Casting-Shadows-rulebook.pdf](casting-shadows-359502/Casting-Shadows-rulebook.pdf) |
 | Catan | [13](https://boardgamegeek.com/boardgame/13) | [catan.pdf](catan-13/catan.pdf) |
 | Catan: Big Box | [191710](https://boardgamegeek.com/boardgame/191710) | [fd-catan-rulebook.pdf](catan-big-box-191710/fd-catan-rulebook.pdf) |
 | Caverna: The Cave Farmers | [102794](https://boardgamegeek.com/boardgame/102794) | [rulebook.pdf](caverna-the-cave-farmers-102794/rulebook.pdf) |
@@ -177,6 +178,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Everdell - Pearlbrook - Freshwater Pack | [292794](https://boardgamegeek.com/boardgame/292794) | [Everdell_PB_Collector's_Rule_Sheet.pdf](everdell-pearlbrook-freshwater-pack-292794/Everdell_PB_Collector's_Rule_Sheet.pdf) |
 | Everdell - Spirecrest | [289056](https://boardgamegeek.com/boardgame/289056) | [spirecrest.pdf](everdell-spirecrest-289056/spirecrest.pdf) |
 | Everdell Duo | [425005](https://boardgamegeek.com/boardgame/425005) | [duo-rulebook-v06-20240712.pdf](everdell-duo-425005/duo-rulebook-v06-20240712.pdf) |
+| Everdell Emerland | [455843](https://boardgamegeek.com/boardgame/455843) | [Emerland-CE-Rulebook-WEB.pdf](everdell-emerland-455843/Emerland-CE-Rulebook-WEB.pdf) |
 | Everdell Farshore | [394106](https://boardgamegeek.com/boardgame/394106) | [261689.pdf](everdell-farshore-394106/261689.pdf) |
 | Everdell Silverfrost | [436821](https://boardgamegeek.com/boardgame/436821) | [web-rules.pdf](everdell-silverfrost-436821/web-rules.pdf) |
 | Exploding Kittens | [172225](https://boardgamegeek.com/boardgame/172225) | [rulebook.pdf](exploding-kittens-172225/rulebook.pdf) |
@@ -309,7 +311,9 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Pandemic Legacy: Season 0 | [314040](https://boardgamegeek.com/boardgame/314040) | [pub-rules.pdf](pandemic-legacy-season-0-314040/pub-rules.pdf) |
 | Pandemic Legacy: Season 1 | [161936](https://boardgamegeek.com/boardgame/161936) | [123531.pdf](pandemic-legacy-season-1-161936/123531.pdf) |
 | Pandemic Legacy: Season 2 | [221107](https://boardgamegeek.com/boardgame/221107) | [pub-rules.pdf](pandemic-legacy-season-2-221107/pub-rules.pdf) |
-| Pantheum - Monsters & Mandates | [444371](https://boardgamegeek.com/boardgame/444371) | [Pantheum-_Demigods_of_Olympia_-_Monsters_Solo_Variant.pdf](pantheum-monsters-mandates-444371/Pantheum-_Demigods_of_Olympia_-_Monsters_Solo_Variant.pdf) |
+| Pantheum: Demigods of Olympia | [421165](https://boardgamegeek.com/boardgame/421165) | [pantheum-rules.pdf](pantheum-demigods-of-olympia-421165/pantheum-rules.pdf) |
+| Pantheum: Demigods of Olympia - Monsters | [444371](https://boardgamegeek.com/boardgame/444371) | [Pantheum-_Demigods_of_Olympia_-_Monsters_Solo_Variant.pdf](pantheum-demigods-of-olympia-monsters-444371/Pantheum-_Demigods_of_Olympia_-_Monsters_Solo_Variant.pdf) |
+| Pantheum: Demigods of Olympia - Monsters | [444371](https://boardgamegeek.com/boardgame/444371) | [monsters-and-mandates-rules.pdf](pantheum-demigods-of-olympia-monsters-444371/monsters-and-mandates-rules.pdf) |
 | Parks | [266524](https://boardgamegeek.com/boardgame/266524) | [rulebook.pdf](parks-266524/rulebook.pdf) |
 | Patchwork | [163412](https://boardgamegeek.com/boardgame/163412) | [rulebook.pdf](patchwork-163412/rulebook.pdf) |
 | Pax Pamir: Second Edition | [256960](https://boardgamegeek.com/boardgame/256960) | [174408.pdf](pax-pamir-second-edition-256960/174408.pdf) |
