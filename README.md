@@ -25,7 +25,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Aeon's End: The New Age | [270633](https://boardgamegeek.com/boardgame/270633) | [9e-aeons-end-rulebook.pdf](aeon-s-end-the-new-age-270633/9e-aeons-end-rulebook.pdf) |
 | Age of Galaxy | [330950](https://boardgamegeek.com/boardgame/330950) | [aog-rulebook-3.pdf](age-of-galaxy-330950/aog-rulebook-3.pdf) |
 | Age of Innovation | [383179](https://boardgamegeek.com/boardgame/383179) | [256623.pdf](age-of-innovation-383179/256623.pdf) |
-| Agricola (Revised Edition) | [200680](https://boardgamegeek.com/boardgame/200680) | [rulebook.pdf](agricola-revised-edition-200680/rulebook.pdf) |
+| Agricola | [31260](https://boardgamegeek.com/boardgame/31260) | [rules.pdf](agricola-31260/rules.pdf) |
 | Akropolis | [357563](https://boardgamegeek.com/boardgame/357563) | [87-akropolis-rulebook.pdf](akropolis-357563/87-akropolis-rulebook.pdf) |
 | Akropolis - Athena | [422822](https://boardgamegeek.com/boardgame/422822) | [GIGAMIC_AKROPOLIS_ATHENA_RULES-NEWDIE-EN.pdf](akropolis-athena-422822/GIGAMIC_AKROPOLIS_ATHENA_RULES-NEWDIE-EN.pdf) |
 | Akropolis - Pantheon (co-op) | [461828](https://boardgamegeek.com/boardgame/461828) | [akropolis-pantheon.pdf](akropolis-pantheon-co-op-461828/akropolis-pantheon.pdf) |
