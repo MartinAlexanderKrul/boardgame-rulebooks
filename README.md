@@ -132,6 +132,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Destinies - Witchwood | [368270](https://boardgamegeek.com/boardgame/368270) | [Destinies_Witchwood_Rules.pdf](destinies-witchwood-368270/Destinies_Witchwood_Rules.pdf) |
 | Destinies | [285192](https://boardgamegeek.com/boardgame/285192) | [8c-time-of-legends-destinies-rulebook.pdf](destinies-285192/8c-time-of-legends-destinies-rulebook.pdf) |
 | Disney Villainous: The Worst Takes it All | [256382](https://boardgamegeek.com/boardgame/256382) | [3d-disney-villainous-rulebook.pdf](disney-villainous-the-worst-takes-it-all-256382/3d-disney-villainous-rulebook.pdf) |
+| Disney Villains: The Card Game | [366753](https://boardgamegeek.com/boardgame/366753) | [rules.pdf](disney-villains-the-card-game-366753/rules.pdf) |
 | Dixit 3 - Journey | [119657](https://boardgamegeek.com/boardgame/119657) | [3d-dixit-rulebook.pdf](dixit-3-journey-119657/3d-dixit-rulebook.pdf) |
 | Dominion (Second Edition) Big Box - Adventures | [171915](https://boardgamegeek.com/boardgame/171915) | [20-dominion-aventures-regle.pdf](dominion-second-edition-big-box-adventures-171915/20-dominion-aventures-regle.pdf) |
 | Dominion (Second Edition) Big Box - Adventures | [171915](https://boardgamegeek.com/boardgame/171915) | [33-dominion-adventures-rulebook.pdf](dominion-second-edition-big-box-adventures-171915/33-dominion-adventures-rulebook.pdf) |
