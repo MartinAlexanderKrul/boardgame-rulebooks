@@ -260,6 +260,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Karak - Regent | [291436](https://boardgamegeek.com/boardgame/291436) | [albi-karak-regent-rules-en.pdf](karak-regent-291436/albi-karak-regent-rules-en.pdf) |
 | Karak II | [393530](https://boardgamegeek.com/boardgame/393530) | [265385.pdf](karak-ii-393530/265385.pdf) |
 | Karak | [241477](https://boardgamegeek.com/boardgame/241477) | [157302.pdf](karak-241477/157302.pdf) |
+| Karak: Sidhar, Kirima, Elspeth | [347190](https://boardgamegeek.com/boardgame/347190) | [rules.pdf](karak-sidhar-kirima-elspeth-347190/rules.pdf) |
 | King of New York - Power Up! | [193320](https://boardgamegeek.com/boardgame/193320) | [7d-king-of-new-york-rulebook.pdf](king-of-new-york-power-up-193320/7d-king-of-new-york-rulebook.pdf) |
 | King of New York - Power Up! | [193320](https://boardgamegeek.com/boardgame/193320) | [KONY-PowerUp_EN_Rules.pdf](king-of-new-york-power-up-193320/KONY-PowerUp_EN_Rules.pdf) |
 | King of Tokyo/New York - Monster Pack - Cybertooth | [282788](https://boardgamegeek.com/boardgame/282788) | [07-king-of-tokyo-new-york-monster-pack-cybertooth-rulebook.pdf](king-of-tokyo-new-york-monster-pack-cybertoot-282788/07-king-of-tokyo-new-york-monster-pack-cybertooth-rulebook.pdf) |
