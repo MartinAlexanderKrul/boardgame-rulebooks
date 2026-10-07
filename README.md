@@ -318,6 +318,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Pandemic Legacy: Season 1 | [161936](https://boardgamegeek.com/boardgame/161936) | [123531.pdf](pandemic-legacy-season-1-161936/123531.pdf) |
 | Pandemic Legacy: Season 2 | [221107](https://boardgamegeek.com/boardgame/221107) | [pub-rules.pdf](pandemic-legacy-season-2-221107/pub-rules.pdf) |
 | Pandemic | [30549](https://boardgamegeek.com/boardgame/30549) | [27536.pdf](pandemic-30549/27536.pdf) |
+| Pandemic | [30549](https://boardgamegeek.com/boardgame/30549) | [rules-2013.pdf](pandemic-30549/rules-2013.pdf) |
 | Pantheum: Demigods of Olympia - Monsters | [444371](https://boardgamegeek.com/boardgame/444371) | [monsters-and-mandates-rules.pdf](pantheum-demigods-of-olympia-monsters-444371/monsters-and-mandates-rules.pdf) |
 | Pantheum: Demigods of Olympia - Monsters | [444371](https://boardgamegeek.com/boardgame/444371) | [Pantheum-_Demigods_of_Olympia_-_Monsters_Solo_Variant.pdf](pantheum-demigods-of-olympia-monsters-444371/Pantheum-_Demigods_of_Olympia_-_Monsters_Solo_Variant.pdf) |
 | Pantheum: Demigods of Olympia | [421165](https://boardgamegeek.com/boardgame/421165) | [pantheum-rules.pdf](pantheum-demigods-of-olympia-421165/pantheum-rules.pdf) |
