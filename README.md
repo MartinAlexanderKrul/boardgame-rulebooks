@@ -421,6 +421,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Ticket to Ride Legacy: Legends of the West | [390092](https://boardgamegeek.com/boardgame/390092) | [web-rules.pdf](ticket-to-ride-legacy-legends-of-the-west-390092/web-rules.pdf) |
 | Ticket to Ride | [9209](https://boardgamegeek.com/boardgame/9209) | [rulebook.pdf](ticket-to-ride-9209/rulebook.pdf) |
 | Ticket to Ride: Europe | [14996](https://boardgamegeek.com/boardgame/14996) | [rulebook.pdf](ticket-to-ride-europe-14996/rulebook.pdf) |
+| Ticket to Ride: Nordic Countries | [31627](https://boardgamegeek.com/boardgame/31627) | [rules.pdf](ticket-to-ride-nordic-countries-31627/rules.pdf) |
 | Time's Up! Party | [38713](https://boardgamegeek.com/boardgame/38713) | [1e-times-up-rulebook.pdf](time-s-up-party-38713/1e-times-up-rulebook.pdf) |
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [garg-reference-sheet-22.pdf](too-many-bones-192135/garg-reference-sheet-22.pdf) |
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [tmb-baddie-skills-reference-sheet-10.pdf](too-many-bones-192135/tmb-baddie-skills-reference-sheet-10.pdf) |
