@@ -37,6 +37,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Ankh: Gods of Egypt - Pharaoh | [308505](https://boardgamegeek.com/boardgame/308505) | [Ankh_Gods_of_Egypt_-_Pharaoh_Expansion.pdf](ankh-gods-of-egypt-pharaoh-308505/Ankh_Gods_of_Egypt_-_Pharaoh_Expansion.pdf) |
 | Ankh: Gods of Egypt | [285967](https://boardgamegeek.com/boardgame/285967) | [Ankh_Rulebook.pdf](ankh-gods-of-egypt-285967/Ankh_Rulebook.pdf) |
 | Arcs | [359871](https://boardgamegeek.com/boardgame/359871) | [rulebook.pdf](arcs-359871/rulebook.pdf) |
+| Arcs: The Blighted Reach Expansion | [363757](https://boardgamegeek.com/boardgame/363757) | [campaign-rulebook.pdf](arcs-the-blighted-reach-expansion-363757/campaign-rulebook.pdf) |
 | Ark Nova - Marine Worlds | [368966](https://boardgamegeek.com/boardgame/368966) | [AN_Exp1_Rules_EN_0-7_low.pdf](ark-nova-marine-worlds-368966/AN_Exp1_Rules_EN_0-7_low.pdf) |
 | Ark Nova - Zoo Map Pack 1 | [368158](https://boardgamegeek.com/boardgame/368158) | [AN_MapPack1_Rules_EN_V1_Web.pdf](ark-nova-zoo-map-pack-1-368158/AN_MapPack1_Rules_EN_V1_Web.pdf) |
 | Ark Nova | [342942](https://boardgamegeek.com/boardgame/342942) | [4c-ark-nova-rulebook.pdf](ark-nova-342942/4c-ark-nova-rulebook.pdf) |
