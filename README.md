@@ -67,6 +67,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | BANG! | [3955](https://boardgamegeek.com/boardgame/3955) | [BANG!DiceGame_UndeadOrAlive_Eng_Rules.pdf](bang-3955/BANG!DiceGame_UndeadOrAlive_Eng_Rules.pdf) |
 | BANG! | [3955](https://boardgamegeek.com/boardgame/3955) | [Bang_rules_ENG.pdf](bang-3955/Bang_rules_ENG.pdf) |
 | Barrage | [251247](https://boardgamegeek.com/boardgame/251247) | [rulebook.pdf](barrage-251247/rulebook.pdf) |
+| Battlestar Galactica: The Board Game | [37111](https://boardgamegeek.com/boardgame/37111) | [bsg_rulebook_web.pdf](battlestar-galactica-the-board-game-37111/bsg_rulebook_web.pdf) |
 | Betrayal at House on the Hill | [10547](https://boardgamegeek.com/boardgame/10547) | [102984.pdf](betrayal-at-house-on-the-hill-10547/102984.pdf) |
 | Blood on the Clocktower | [240980](https://boardgamegeek.com/boardgame/240980) | [253824.pdf](blood-on-the-clocktower-240980/253824.pdf) |
 | Blood Rage - Gods of Asgard | [174801](https://boardgamegeek.com/boardgame/174801) | [goa.pdf](blood-rage-gods-of-asgard-174801/goa.pdf) |
