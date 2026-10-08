@@ -20,6 +20,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | 7 Wonders Duel - Pantheon | [202976](https://boardgamegeek.com/boardgame/202976) | [24-7-wonders-duel-pantheon-rulebook.pdf](7-wonders-duel-pantheon-202976/24-7-wonders-duel-pantheon-rulebook.pdf) |
 | 7 Wonders Duel | [173346](https://boardgamegeek.com/boardgame/173346) | [6b-7-wonders-duel-rules.pdf](7-wonders-duel-173346/6b-7-wonders-duel-rules.pdf) |
 | A Feast for Odin | [177736](https://boardgamegeek.com/boardgame/177736) | [ODIN_EN_rules-LR.pdf](a-feast-for-odin-177736/ODIN_EN_rules-LR.pdf) |
+| A Game of Thrones: The Card Game (Second Edition) | [169255](https://boardgamegeek.com/boardgame/169255) | [agot-lcg-rulebook.pdf](a-game-of-thrones-the-card-game-second-edition-169255/agot-lcg-rulebook.pdf) |
 | Activity 2 | [27451](https://boardgamegeek.com/boardgame/27451) | [web-rules.pdf](activity-2-27451/web-rules.pdf) |
 | Aeon's End | [191189](https://boardgamegeek.com/boardgame/191189) | [141295.pdf](aeon-s-end-191189/141295.pdf) |
 | Aeon's End: The New Age | [270633](https://boardgamegeek.com/boardgame/270633) | [9e-aeons-end-rulebook.pdf](aeon-s-end-the-new-age-270633/9e-aeons-end-rulebook.pdf) |
@@ -67,6 +68,9 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | BANG! | [3955](https://boardgamegeek.com/boardgame/3955) | [BANG!DiceGame_UndeadOrAlive_Eng_Rules.pdf](bang-3955/BANG!DiceGame_UndeadOrAlive_Eng_Rules.pdf) |
 | BANG! | [3955](https://boardgamegeek.com/boardgame/3955) | [Bang_rules_ENG.pdf](bang-3955/Bang_rules_ENG.pdf) |
 | Barrage | [251247](https://boardgamegeek.com/boardgame/251247) | [rulebook.pdf](barrage-251247/rulebook.pdf) |
+| Battlestar Galactica: The Board Game | [37111](https://boardgamegeek.com/boardgame/37111) | [bsg-daybreak-rulebook.pdf](battlestar-galactica-the-board-game-37111/bsg-daybreak-rulebook.pdf) |
+| Battlestar Galactica: The Board Game | [37111](https://boardgamegeek.com/boardgame/37111) | [bsg-exodus-rulebook.pdf](battlestar-galactica-the-board-game-37111/bsg-exodus-rulebook.pdf) |
+| Battlestar Galactica: The Board Game | [37111](https://boardgamegeek.com/boardgame/37111) | [bsg-pegasus-rulebook.pdf](battlestar-galactica-the-board-game-37111/bsg-pegasus-rulebook.pdf) |
 | Battlestar Galactica: The Board Game | [37111](https://boardgamegeek.com/boardgame/37111) | [bsg_rulebook_web.pdf](battlestar-galactica-the-board-game-37111/bsg_rulebook_web.pdf) |
 | Betrayal at House on the Hill | [10547](https://boardgamegeek.com/boardgame/10547) | [102984.pdf](betrayal-at-house-on-the-hill-10547/102984.pdf) |
 | Blood on the Clocktower | [240980](https://boardgamegeek.com/boardgame/240980) | [253824.pdf](blood-on-the-clocktower-240980/253824.pdf) |
@@ -81,6 +85,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Bunny Kingdom - In the Sky | [264396](https://boardgamegeek.com/boardgame/264396) | [20-bunny-kingdom-in-the-sky-rulebook.pdf](bunny-kingdom-in-the-sky-264396/20-bunny-kingdom-in-the-sky-rulebook.pdf) |
 | Bunny Kingdom - In the Sky | [264396](https://boardgamegeek.com/boardgame/264396) | [e1-bunny-kingdom-regle.pdf](bunny-kingdom-in-the-sky-264396/e1-bunny-kingdom-regle.pdf) |
 | Bunny Kingdom | [184921](https://boardgamegeek.com/boardgame/184921) | [7f-bunny-kingdom-rulebook.pdf](bunny-kingdom-184921/7f-bunny-kingdom-rulebook.pdf) |
+| CABO (Second Edition) | [271321](https://boardgamegeek.com/boardgame/271321) | [cabo-rulebook.pdf](cabo-second-edition-271321/cabo-rulebook.pdf) |
 | Carcassonne - Das Labyrinth | [195771](https://boardgamegeek.com/boardgame/195771) | [Carcassonne_The_Labyrinth_Variant_English_Translation_Version_1.2.pdf](carcassonne-das-labyrinth-195771/Carcassonne_The_Labyrinth_Variant_English_Translation_Version_1.2.pdf) |
 | Carcassonne Big Box 6 - Exp. 10: Under the Big Top | [217006](https://boardgamegeek.com/boardgame/217006) | [Carcassonne_Under_the_Big_Top_Rules_(English).pdf](carcassonne-big-box-6-exp-10-under-the-big-to-217006/Carcassonne_Under_the_Big_Top_Rules_(English).pdf) |
 | Carcassonne Big Box 6 - The School | [104634](https://boardgamegeek.com/boardgame/104634) | [schule_eng.pdf](carcassonne-big-box-6-the-school-104634/schule_eng.pdf) |
@@ -115,6 +120,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Clank!: A Deck-Building Adventure | [201808](https://boardgamegeek.com/boardgame/201808) | [ae-clank-a-deck-building-adventure-rulebook.pdf](clank-a-deck-building-adventure-201808/ae-clank-a-deck-building-adventure-rulebook.pdf) |
 | Clank!: Catacombs | [365717](https://boardgamegeek.com/boardgame/365717) | [pub-CLANK_CATACOMBS_Rulebook_and_Token_Reference_Guide.pdf](clank-catacombs-365717/pub-CLANK_CATACOMBS_Rulebook_and_Token_Reference_Guide.pdf) |
 | Clans of Caledonia | [216132](https://boardgamegeek.com/boardgame/216132) | [rulebook.pdf](clans-of-caledonia-216132/rulebook.pdf) |
+| Clash of Cultures: Monumental Edition | [299659](https://boardgamegeek.com/boardgame/299659) | [clash-of-cultures-monumental-rulebook.pdf](clash-of-cultures-monumental-edition-299659/clash-of-cultures-monumental-rulebook.pdf) |
 | Cockroach Poker | [11971](https://boardgamegeek.com/boardgame/11971) | [44854.pdf](cockroach-poker-11971/44854.pdf) |
 | Codenames | [178900](https://boardgamegeek.com/boardgame/178900) | [305498.pdf](codenames-178900/305498.pdf) |
 | Codenames: Back to Hogwarts | [450782](https://boardgamegeek.com/boardgame/450782) | [305303.pdf](codenames-back-to-hogwarts-450782/305303.pdf) |
@@ -125,15 +131,20 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Concordia | [124361](https://boardgamegeek.com/boardgame/124361) | [setup.pdf](concordia-124361/setup.pdf) |
 | Coup | [131357](https://boardgamegeek.com/boardgame/131357) | [web-rules.pdf](coup-131357/web-rules.pdf) |
 | Crokinole | [521](https://boardgamegeek.com/boardgame/521) | [251503.pdf](crokinole-521/251503.pdf) |
+| Cthulhu: Death May Die - Fear of the Unknown | [373600](https://boardgamegeek.com/boardgame/373600) | [dmd-fear-of-the-unknown-rulebook.pdf](cthulhu-death-may-die-fear-of-the-unknown-373600/dmd-fear-of-the-unknown-rulebook.pdf) |
 | Cthulhu: Death May Die | [253344](https://boardgamegeek.com/boardgame/253344) | [rulebook.pdf](cthulhu-death-may-die-253344/rulebook.pdf) |
 | Cyclades: Legendary Edition | [380619](https://boardgamegeek.com/boardgame/380619) | [c-rulesbook-master-en-lr.pdf](cyclades-legendary-edition-380619/c-rulesbook-master-en-lr.pdf) |
 | Darwin's Journey | [322289](https://boardgamegeek.com/boardgame/322289) | [pub-darwins_journey_rulebook_Guido-NV-15-9.pdf](darwin-s-journey-322289/pub-darwins_journey_rulebook_Guido-NV-15-9.pdf) |
 | Dead of Winter: A Crossroads Game | [150376](https://boardgamegeek.com/boardgame/150376) | [pub-rules.pdf](dead-of-winter-a-crossroads-game-150376/pub-rules.pdf) |
+| Descent: Journeys in the Dark (Second Edition) | [104162](https://boardgamegeek.com/boardgame/104162) | [descent-2e-rulebook.pdf](descent-journeys-in-the-dark-second-edition-104162/descent-2e-rulebook.pdf) |
 | Descent: Legends of the Dark | [322708](https://boardgamegeek.com/boardgame/322708) | [rulebook.pdf](descent-legends-of-the-dark-322708/rulebook.pdf) |
 | Destinies - Bound By Fate | [303835](https://boardgamegeek.com/boardgame/303835) | [Destinies_Rulebook_BbF_EN.pdf](destinies-bound-by-fate-303835/Destinies_Rulebook_BbF_EN.pdf) |
 | Destinies - Sea of Sand | [303836](https://boardgamegeek.com/boardgame/303836) | [Destinies_Rulebook_SoS_-_updated.pdf](destinies-sea-of-sand-303836/Destinies_Rulebook_SoS_-_updated.pdf) |
 | Destinies - Witchwood | [368270](https://boardgamegeek.com/boardgame/368270) | [Destinies_Witchwood_Rules.pdf](destinies-witchwood-368270/Destinies_Witchwood_Rules.pdf) |
 | Destinies | [285192](https://boardgamegeek.com/boardgame/285192) | [8c-time-of-legends-destinies-rulebook.pdf](destinies-285192/8c-time-of-legends-destinies-rulebook.pdf) |
+| Detective: A Modern Crime Board Game | [223321](https://boardgamegeek.com/boardgame/223321) | [detective-la-crimes-rulebook.pdf](detective-a-modern-crime-board-game-223321/detective-la-crimes-rulebook.pdf) |
+| Detective: A Modern Crime Board Game | [223321](https://boardgamegeek.com/boardgame/223321) | [detective-rulebook.pdf](detective-a-modern-crime-board-game-223321/detective-rulebook.pdf) |
+| Discworld: Ankh-Morpork | [91312](https://boardgamegeek.com/boardgame/91312) | [discworld-rulebook.pdf](discworld-ankh-morpork-91312/discworld-rulebook.pdf) |
 | Disney Villainous: The Worst Takes it All | [256382](https://boardgamegeek.com/boardgame/256382) | [3d-disney-villainous-rulebook.pdf](disney-villainous-the-worst-takes-it-all-256382/3d-disney-villainous-rulebook.pdf) |
 | Disney Villains: The Card Game | [366753](https://boardgamegeek.com/boardgame/366753) | [rules.pdf](disney-villains-the-card-game-366753/rules.pdf) |
 | Dixit 3 - Journey | [119657](https://boardgamegeek.com/boardgame/119657) | [3d-dixit-rulebook.pdf](dixit-3-journey-119657/3d-dixit-rulebook.pdf) |
@@ -170,11 +181,16 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doeappendix2024-low.pdf](dwellings-of-eldervale-271055/doeappendix2024-low.pdf) |
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doeghostsrulebook2024-low.pdf](dwellings-of-eldervale-271055/doeghostsrulebook2024-low.pdf) |
 | Dwellings of Eldervale | [271055](https://boardgamegeek.com/boardgame/271055) | [doerulebook2024-low.pdf](dwellings-of-eldervale-271055/doerulebook2024-low.pdf) |
+| Eclipse: New Dawn for the Galaxy | [72125](https://boardgamegeek.com/boardgame/72125) | [eclipse-rise-of-the-ancients-rulebook.pdf](eclipse-new-dawn-for-the-galaxy-72125/eclipse-rise-of-the-ancients-rulebook.pdf) |
+| Eclipse: New Dawn for the Galaxy | [72125](https://boardgamegeek.com/boardgame/72125) | [eclipse-rulebook.pdf](eclipse-new-dawn-for-the-galaxy-72125/eclipse-rulebook.pdf) |
 | Eclipse: Second Dawn for the Galaxy | [246900](https://boardgamegeek.com/boardgame/246900) | [rules.pdf](eclipse-second-dawn-for-the-galaxy-246900/rules.pdf) |
 | El Grande | [93](https://boardgamegeek.com/boardgame/93) | [web-rules.pdf](el-grande-93/web-rules.pdf) |
 | Eldritch Horror | [146021](https://boardgamegeek.com/boardgame/146021) | [pub-Eldritch_20Horror_rulebook.pdf](eldritch-horror-146021/pub-Eldritch_20Horror_rulebook.pdf) |
 | Endeavor: Deep Sea - Uncharted Waters | [446892](https://boardgamegeek.com/boardgame/446892) | [EUW_rules_web.pdf](endeavor-deep-sea-uncharted-waters-446892/EUW_rules_web.pdf) |
 | Endeavor: Deep Sea | [367966](https://boardgamegeek.com/boardgame/367966) | [ENDS_rules_web.pdf](endeavor-deep-sea-367966/ENDS_rules_web.pdf) |
+| Euthia: Torment of Resurrection | [295785](https://boardgamegeek.com/boardgame/295785) | [euthia-fierce-powers-crawling-shadows-rulebook.pdf](euthia-torment-of-resurrection-295785/euthia-fierce-powers-crawling-shadows-rulebook.pdf) |
+| Euthia: Torment of Resurrection | [295785](https://boardgamegeek.com/boardgame/295785) | [euthia-rulebook-2.0.pdf](euthia-torment-of-resurrection-295785/euthia-rulebook-2.0.pdf) |
+| Euthia: Torment of Resurrection | [295785](https://boardgamegeek.com/boardgame/295785) | [euthia-scenario-book-2.0.pdf](euthia-torment-of-resurrection-295785/euthia-scenario-book-2.0.pdf) |
 | Everdell - Bellfaire | [289057](https://boardgamegeek.com/boardgame/289057) | [bellfaire.pdf](everdell-bellfaire-289057/bellfaire.pdf) |
 | Everdell - Glimmergold Pack | [289405](https://boardgamegeek.com/boardgame/289405) | [Everdell_Collector's_Rule_Sheet.pdf](everdell-glimmergold-pack-289405/Everdell_Collector's_Rule_Sheet.pdf) |
 | Everdell - Mistwood cards | [332397](https://boardgamegeek.com/boardgame/332397) | [mistwood.pdf](everdell-mistwood-cards-332397/mistwood.pdf) |
@@ -248,9 +264,18 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Tower+SG-Content-Guide_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Tower+SG-Content-Guide_EN.pdf) |
 | Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Trays-Guide-BB2_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Trays-Guide-BB2_EN.pdf) |
 | Heroes of Might and Magic III: The Board Game | [355326](https://boardgamegeek.com/boardgame/355326) | [HoMM-Trays-Guide_EN.pdf](heroes-of-might-and-magic-iii-the-board-game-355326/HoMM-Trays-Guide_EN.pdf) |
+| High Frontier 4 All | [281655](https://boardgamegeek.com/boardgame/281655) | [hf4a-core-rules.pdf](high-frontier-4-all-281655/hf4a-core-rules.pdf) |
+| High Frontier 4 All | [281655](https://boardgamegeek.com/boardgame/281655) | [hf4a-module-1-terawatt-rules.pdf](high-frontier-4-all-281655/hf4a-module-1-terawatt-rules.pdf) |
+| High Frontier 4 All | [281655](https://boardgamegeek.com/boardgame/281655) | [hf4a-module-2-colonization-rules.pdf](high-frontier-4-all-281655/hf4a-module-2-colonization-rules.pdf) |
+| High Frontier 4 All | [281655](https://boardgamegeek.com/boardgame/281655) | [hf4a-module-3-conflict-rules.pdf](high-frontier-4-all-281655/hf4a-module-3-conflict-rules.pdf) |
 | Hive | [2655](https://boardgamegeek.com/boardgame/2655) | [7724.pdf](hive-2655/7724.pdf) |
 | How Dare You? | [387763](https://boardgamegeek.com/boardgame/387763) | [260069.pdf](how-dare-you-387763/260069.pdf) |
+| Imperium: Legends | [318182](https://boardgamegeek.com/boardgame/318182) | [imperium-classics-rulebook.pdf](imperium-legends-318182/imperium-classics-rulebook.pdf) |
+| Imperium: Legends | [318182](https://boardgamegeek.com/boardgame/318182) | [imperium-solo-rulebook.pdf](imperium-legends-318182/imperium-solo-rulebook.pdf) |
 | Ironwood | [407343](https://boardgamegeek.com/boardgame/407343) | [web-rules.pdf](ironwood-407343/web-rules.pdf) |
+| ISS Vanguard | [325494](https://boardgamegeek.com/boardgame/325494) | [iss-deadly-frontier-rulebook.pdf](iss-vanguard-325494/iss-deadly-frontier-rulebook.pdf) |
+| ISS Vanguard | [325494](https://boardgamegeek.com/boardgame/325494) | [iss-lost-fleet-rulebook.pdf](iss-vanguard-325494/iss-lost-fleet-rulebook.pdf) |
+| ISS Vanguard | [325494](https://boardgamegeek.com/boardgame/325494) | [iss-vanguard-rulebook.pdf](iss-vanguard-325494/iss-vanguard-rulebook.pdf) |
 | It's a Wonderful World - Corruption & Ascension | [298851](https://boardgamegeek.com/boardgame/298851) | [iaww-asc.pdf](it-s-a-wonderful-world-corruption-ascension-298851/iaww-asc.pdf) |
 | It's a Wonderful World - Corruption & Ascension | [298851](https://boardgamegeek.com/boardgame/298851) | [iaww-ca.pdf](it-s-a-wonderful-world-corruption-ascension-298851/iaww-ca.pdf) |
 | It's a Wonderful World | [271324](https://boardgamegeek.com/boardgame/271324) | [iaww.pdf](it-s-a-wonderful-world-271324/iaww.pdf) |
@@ -274,6 +299,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | King of Tokyo: Monster Box - Monster Pack: Cthulhu | [207292](https://boardgamegeek.com/boardgame/207292) | [9b-king-of-tokyo-rulebook.pdf](king-of-tokyo-monster-box-monster-pack-cthulh-207292/9b-king-of-tokyo-rulebook.pdf) |
 | King of Tokyo: Monster Box - Monster Pack: King Kong | [233076](https://boardgamegeek.com/boardgame/233076) | [ec-king-of-tokyo-new-york-monster-pack-king-kong-rulebook.pdf](king-of-tokyo-monster-box-monster-pack-king-k-233076/ec-king-of-tokyo-new-york-monster-pack-king-kong-rulebook.pdf) |
 | Kingdomino | [204583](https://boardgamegeek.com/boardgame/204583) | [152970.pdf](kingdomino-204583/152970.pdf) |
+| Kutná Hora: The City of Silver | [385610](https://boardgamegeek.com/boardgame/385610) | [kutna-hora-rules-en.pdf](kutna-hora-the-city-of-silver-385610/kutna-hora-rules-en.pdf) |
 | Le Havre | [35677](https://boardgamegeek.com/boardgame/35677) | [rulebook.pdf](le-havre-35677/rulebook.pdf) |
 | Lisboa | [161533](https://boardgamegeek.com/boardgame/161533) | [rules.pdf](lisboa-161533/rules.pdf) |
 | Lords of Waterdeep | [110327](https://boardgamegeek.com/boardgame/110327) | [web-rules.pdf](lords-of-waterdeep-110327/web-rules.pdf) |
@@ -291,6 +317,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Mage Knight Board Game | [96848](https://boardgamegeek.com/boardgame/96848) | [Mage_Knight_Solo_Scenario_Book_V3.pdf](mage-knight-board-game-96848/Mage_Knight_Solo_Scenario_Book_V3.pdf) |
 | Mage Knight Board Game | [96848](https://boardgamegeek.com/boardgame/96848) | [MK_rulebook_EN.pdf](mage-knight-board-game-96848/MK_rulebook_EN.pdf) |
 | Mage Knight Board Game | [96848](https://boardgamegeek.com/boardgame/96848) | [MK_walkthrough_EN.pdf](mage-knight-board-game-96848/MK_walkthrough_EN.pdf) |
+| Mage Wars Arena | [101721](https://boardgamegeek.com/boardgame/101721) | [mage-wars-arena-rulebook.pdf](mage-wars-arena-101721/mage-wars-arena-rulebook.pdf) |
 | Mansions of Madness: Second Edition | [205059](https://boardgamegeek.com/boardgame/205059) | [rules.pdf](mansions-of-madness-second-edition-205059/rules.pdf) |
 | Maracaibo | [276025](https://boardgamegeek.com/boardgame/276025) | [rules.pdf](maracaibo-276025/rules.pdf) |
 | Marvel Champions: The Card Game | [285774](https://boardgamegeek.com/boardgame/285774) | [web-rules.pdf](marvel-champions-the-card-game-285774/web-rules.pdf) |
@@ -307,6 +334,9 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Munchkin | [1927](https://boardgamegeek.com/boardgame/1927) | [3069.pdf](munchkin-1927/3069.pdf) |
 | Mysterium | [181304](https://boardgamegeek.com/boardgame/181304) | [rulebook.pdf](mysterium-181304/rulebook.pdf) |
 | Nemesis | [167355](https://boardgamegeek.com/boardgame/167355) | [rulebook.pdf](nemesis-167355/rulebook.pdf) |
+| Nemesis: Lockdown | [310100](https://boardgamegeek.com/boardgame/310100) | [nemesis-lockdown-chytrids-rulebook.pdf](nemesis-lockdown-310100/nemesis-lockdown-chytrids-rulebook.pdf) |
+| Nemesis: Lockdown | [310100](https://boardgamegeek.com/boardgame/310100) | [nemesis-lockdown-rulebook.pdf](nemesis-lockdown-310100/nemesis-lockdown-rulebook.pdf) |
+| Nemesis: Lockdown | [310100](https://boardgamegeek.com/boardgame/310100) | [nemesis-lockdown-sg-rulebook.pdf](nemesis-lockdown-310100/nemesis-lockdown-sg-rulebook.pdf) |
 | Not Enough Mana | [343990](https://boardgamegeek.com/boardgame/343990) | [web-rules.pdf](not-enough-mana-343990/web-rules.pdf) |
 | Oathsworn: Into the Deepwood | [251661](https://boardgamegeek.com/boardgame/251661) | [encounter-rule-book.pdf](oathsworn-into-the-deepwood-251661/encounter-rule-book.pdf) |
 | Oathsworn: Into the Deepwood | [251661](https://boardgamegeek.com/boardgame/251661) | [story-rule-book.pdf](oathsworn-into-the-deepwood-251661/story-rule-book.pdf) |
@@ -314,6 +344,8 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | On Mars | [184267](https://boardgamegeek.com/boardgame/184267) | [rules.pdf](on-mars-184267/rules.pdf) |
 | One Night Ultimate Werewolf | [147949](https://boardgamegeek.com/boardgame/147949) | [109882.pdf](one-night-ultimate-werewolf-147949/109882.pdf) |
 | Orléans | [164928](https://boardgamegeek.com/boardgame/164928) | [rules.pdf](orleans-164928/rules.pdf) |
+| Pagan: Fate of Roanoke | [319910](https://boardgamegeek.com/boardgame/319910) | [pagan-beyond-the-palisades-rulebook.pdf](pagan-fate-of-roanoke-319910/pagan-beyond-the-palisades-rulebook.pdf) |
+| Pagan: Fate of Roanoke | [319910](https://boardgamegeek.com/boardgame/319910) | [pagan-rulebook.pdf](pagan-fate-of-roanoke-319910/pagan-rulebook.pdf) |
 | Paladins of the West Kingdom | [266810](https://boardgamegeek.com/boardgame/266810) | [177338.pdf](paladins-of-the-west-kingdom-266810/177338.pdf) |
 | Pandemic Legacy: Season 0 | [314040](https://boardgamegeek.com/boardgame/314040) | [pub-rules.pdf](pandemic-legacy-season-0-314040/pub-rules.pdf) |
 | Pandemic Legacy: Season 1 | [161936](https://boardgamegeek.com/boardgame/161936) | [123531.pdf](pandemic-legacy-season-1-161936/123531.pdf) |
@@ -362,6 +394,9 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Scythe | [169786](https://boardgamegeek.com/boardgame/169786) | [scythe-quick-reference-guide-englishcompressed.pdf](scythe-169786/scythe-quick-reference-guide-englishcompressed.pdf) |
 | SETI: Search for Extraterrestrial Intelligence | [418059](https://boardgamegeek.com/boardgame/418059) | [286198.pdf](seti-search-for-extraterrestrial-intelligence-418059/286198.pdf) |
 | Sheriff of Nottingham | [157969](https://boardgamegeek.com/boardgame/157969) | [106282.pdf](sheriff-of-nottingham-157969/106282.pdf) |
+| Sid Meier's Civilization: The Board Game | [77130](https://boardgamegeek.com/boardgame/77130) | [civilization-fame-and-fortune-rulebook.pdf](sid-meiers-civilization-the-board-game-77130/civilization-fame-and-fortune-rulebook.pdf) |
+| Sid Meier's Civilization: The Board Game | [77130](https://boardgamegeek.com/boardgame/77130) | [civilization-rulebook.pdf](sid-meiers-civilization-the-board-game-77130/civilization-rulebook.pdf) |
+| Sid Meier's Civilization: The Board Game | [77130](https://boardgamegeek.com/boardgame/77130) | [civilization-wisdom-and-warfare-rulebook.pdf](sid-meiers-civilization-the-board-game-77130/civilization-wisdom-and-warfare-rulebook.pdf) |
 | Sky Team | [373106](https://boardgamegeek.com/boardgame/373106) | [265120.pdf](sky-team-373106/265120.pdf) |
 | Slay the Spire: The Board Game | [338960](https://boardgamegeek.com/boardgame/338960) | [276680.pdf](slay-the-spire-the-board-game-338960/276680.pdf) |
 | Sleeping Gods | [255984](https://boardgamegeek.com/boardgame/255984) | [76-sleeping-gods-rulebook.pdf](sleeping-gods-255984/76-sleeping-gods-rulebook.pdf) |
@@ -377,9 +412,12 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Star Wars: Imperial Assault | [164153](https://boardgamegeek.com/boardgame/164153) | [pub-swi01_rules_reference.pdf](star-wars-imperial-assault-164153/pub-swi01_rules_reference.pdf) |
 | Star Wars: Imperial Assault | [164153](https://boardgamegeek.com/boardgame/164153) | [pub-swi01_skirmish_guide_v6.pdf](star-wars-imperial-assault-164153/pub-swi01_skirmish_guide_v6.pdf) |
 | Star Wars: Rebellion | [187645](https://boardgamegeek.com/boardgame/187645) | [rules.pdf](star-wars-rebellion-187645/rules.pdf) |
+| Star Wars: X-Wing Miniatures Game | [103885](https://boardgamegeek.com/boardgame/103885) | [x-wing-rulebook.pdf](star-wars-x-wing-miniatures-game-103885/x-wing-rulebook.pdf) |
 | Stone Age | [34635](https://boardgamegeek.com/boardgame/34635) | [pub-rules.pdf](stone-age-34635/pub-rules.pdf) |
+| Summoner Wars: Master Set | [93260](https://boardgamegeek.com/boardgame/93260) | [summoner-wars-master-set-rulebook.pdf](summoner-wars-master-set-93260/summoner-wars-master-set-rulebook.pdf) |
 | Sushi Go Party! | [192291](https://boardgamegeek.com/boardgame/192291) | [170553.pdf](sushi-go-party-192291/170553.pdf) |
 | Sushi Go! | [133473](https://boardgamegeek.com/boardgame/133473) | [74-sushi-go-rulebook.pdf](sushi-go-133473/74-sushi-go-rulebook.pdf) |
+| Tainted Grail: The Fall of Avalon | [264220](https://boardgamegeek.com/boardgame/264220) | [tainted-grail-rulebook-2.0.pdf](tainted-grail-the-fall-of-avalon-264220/tainted-grail-rulebook-2.0.pdf) |
 | Takenoko | [70919](https://boardgamegeek.com/boardgame/70919) | [rulebook.pdf](takenoko-70919/rulebook.pdf) |
 | Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [41-talisman-revised-4th-edition-rulebook.pdf](talisman-revised-4th-edition-27627/41-talisman-revised-4th-edition-rulebook.pdf) |
 | Talisman: Revised 4th Edition | [27627](https://boardgamegeek.com/boardgame/27627) | [tm02.pdf](talisman-revised-4th-edition-27627/tm02.pdf) |
@@ -397,9 +435,11 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Terra Mystica | [120677](https://boardgamegeek.com/boardgame/120677) | [rulebook.pdf](terra-mystica-120677/rulebook.pdf) |
 | Terraforming Mars | [167791](https://boardgamegeek.com/boardgame/167791) | [135533.pdf](terraforming-mars-167791/135533.pdf) |
 | The Castles of Burgundy | [84876](https://boardgamegeek.com/boardgame/84876) | [the-castles-of-burgundy-rulebook.pdf](the-castles-of-burgundy-84876/the-castles-of-burgundy-rulebook.pdf) |
+| The Castles of Burgundy: Special Edition | [363622](https://boardgamegeek.com/boardgame/363622) | [cob-se-rulebook.pdf](the-castles-of-burgundy-special-edition-363622/cob-se-rulebook.pdf) |
 | The Crew: Mission Deep Sea | [324856](https://boardgamegeek.com/boardgame/324856) | [web-rules.pdf](the-crew-mission-deep-sea-324856/web-rules.pdf) |
 | The Crew: The Quest for Planet Nine | [284083](https://boardgamegeek.com/boardgame/284083) | [194487.pdf](the-crew-the-quest-for-planet-nine-284083/194487.pdf) |
 | The Dwarves | [124668](https://boardgamegeek.com/boardgame/124668) | [the-dwarves-cz.pdf](the-dwarves-124668/the-dwarves-cz.pdf) |
+| The Elder Scrolls: Betrayal of the Second Era | [356080](https://boardgamegeek.com/boardgame/356080) | [elder-scrolls-rulebook.pdf](the-elder-scrolls-betrayal-of-the-second-era-356080/elder-scrolls-rulebook.pdf) |
 | The Gallerist | [125153](https://boardgamegeek.com/boardgame/125153) | [116846.pdf](the-gallerist-125153/116846.pdf) |
 | The Great Wall - Stretch Goals | [349733](https://boardgamegeek.com/boardgame/349733) | [e4-the-great-wall-regle.pdf](the-great-wall-stretch-goals-349733/e4-the-great-wall-regle.pdf) |
 | The Great Wall | [292375](https://boardgamegeek.com/boardgame/292375) | [10-the-great-wall-rulebook.pdf](the-great-wall-292375/10-the-great-wall-rulebook.pdf) |
@@ -421,6 +461,9 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | The Witcher: Path of Destiny - Naglfar | [405402](https://boardgamegeek.com/boardgame/405402) | [PoD_ENG_-_Naglfar_rulebook_WEB.pdf](the-witcher-path-of-destiny-naglfar-405402/PoD_ENG_-_Naglfar_rulebook_WEB.pdf) |
 | The Witcher: Path of Destiny - Wild Hunt (one vs all) | [404367](https://boardgamegeek.com/boardgame/404367) | [PoD_ENG_-_Wild_Hunt_rulebook_WEB.pdf](the-witcher-path-of-destiny-wild-hunt-one-vs-404367/PoD_ENG_-_Wild_Hunt_rulebook_WEB.pdf) |
 | The Witcher: Path of Destiny | [401325](https://boardgamegeek.com/boardgame/401325) | [275168.pdf](the-witcher-path-of-destiny-401325/275168.pdf) |
+| This War of Mine: The Board Game | [188920](https://boardgamegeek.com/boardgame/188920) | [twom-2e-rulebook.pdf](this-war-of-mine-the-board-game-188920/twom-2e-rulebook.pdf) |
+| This War of Mine: The Board Game | [188920](https://boardgamegeek.com/boardgame/188920) | [twom-days-of-the-siege-rulebook.pdf](this-war-of-mine-the-board-game-188920/twom-days-of-the-siege-rulebook.pdf) |
+| This War of Mine: The Board Game | [188920](https://boardgamegeek.com/boardgame/188920) | [twom-tales-ruined-city-rulebook.pdf](this-war-of-mine-the-board-game-188920/twom-tales-ruined-city-rulebook.pdf) |
 | Through the Ages: A New Story of Civilization | [182028](https://boardgamegeek.com/boardgame/182028) | [pub-rules.pdf](through-the-ages-a-new-story-of-civilization-182028/pub-rules.pdf) |
 | Ticket to Ride Legacy: Legends of the West | [390092](https://boardgamegeek.com/boardgame/390092) | [web-rules.pdf](ticket-to-ride-legacy-legends-of-the-west-390092/web-rules.pdf) |
 | Ticket to Ride | [9209](https://boardgamegeek.com/boardgame/9209) | [rulebook.pdf](ticket-to-ride-9209/rulebook.pdf) |
@@ -431,6 +474,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [tmb-baddie-skills-reference-sheet-10.pdf](too-many-bones-192135/tmb-baddie-skills-reference-sheet-10.pdf) |
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [tmb-character-sheets-2x.pdf](too-many-bones-192135/tmb-character-sheets-2x.pdf) |
 | Too Many Bones | [192135](https://boardgamegeek.com/boardgame/192135) | [tmb-rulebook-22.pdf](too-many-bones-192135/tmb-rulebook-22.pdf) |
+| Toy Battle | [434654](https://boardgamegeek.com/boardgame/434654) | [toy-battle-rules.pdf](toy-battle-434654/toy-battle-rules.pdf) |
 | Twilight Imperium: Fourth Edition | [233078](https://boardgamegeek.com/boardgame/233078) | [rulebook.pdf](twilight-imperium-fourth-edition-233078/rulebook.pdf) |
 | Twilight Struggle | [12333](https://boardgamegeek.com/boardgame/12333) | [rules.pdf](twilight-struggle-12333/rules.pdf) |
 | Tzolk'in: The Mayan Calendar | [126163](https://boardgamegeek.com/boardgame/126163) | [87204.pdf](tzolk-in-the-mayan-calendar-126163/87204.pdf) |
@@ -448,6 +492,8 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | War of the Ring - Warriors of Middle-earth | [179404](https://boardgamegeek.com/boardgame/179404) | [Warriors_of_Middle-earth_Complete_Rules_and_Summary_v2.1.pdf](war-of-the-ring-warriors-of-middle-earth-179404/Warriors_of_Middle-earth_Complete_Rules_and_Summary_v2.1.pdf) |
 | War of the Ring: Second Edition | [115746](https://boardgamegeek.com/boardgame/115746) | [WotR_Example_of_Play_(UvG_1.4).pdf](war-of-the-ring-second-edition-115746/WotR_Example_of_Play_(UvG_1.4).pdf) |
 | War of the Ring: Second Edition | [115746](https://boardgamegeek.com/boardgame/115746) | [WoTR_Game_Tables_r3.0_-_base_game.pdf](war-of-the-ring-second-edition-115746/WoTR_Game_Tables_r3.0_-_base_game.pdf) |
+| Watergate | [274364](https://boardgamegeek.com/boardgame/274364) | [watergate-rulebook.pdf](watergate-274364/watergate-rulebook.pdf) |
+| Welcome to the Moon | [339789](https://boardgamegeek.com/boardgame/339789) | [welcome-to-the-moon-rulebook.pdf](welcome-to-the-moon-339789/welcome-to-the-moon-rulebook.pdf) |
 | Welcome To... | [233867](https://boardgamegeek.com/boardgame/233867) | [162102.pdf](welcome-to-233867/162102.pdf) |
 | Wingspan - Americas Expansion | [461932](https://boardgamegeek.com/boardgame/461932) | [wsam.pdf](wingspan-americas-expansion-461932/wsam.pdf) |
 | Wingspan - European Expansion | [290448](https://boardgamegeek.com/boardgame/290448) | [wse.pdf](wingspan-european-expansion-290448/wse.pdf) |
@@ -463,5 +509,7 @@ All rulebooks are copyright of their publishers - keep this repository private.
 | Wyrmspan | [410201](https://boardgamegeek.com/boardgame/410201) | [1f967421704728148.pdf](wyrmspan-410201/1f967421704728148.pdf) |
 | Wyrmspan | [410201](https://boardgamegeek.com/boardgame/410201) | [automa-rules.pdf](wyrmspan-410201/automa-rules.pdf) |
 | Wyrmspan | [410201](https://boardgamegeek.com/boardgame/410201) | [wyr-da-rulebook-r10.pdf](wyrmspan-410201/wyr-da-rulebook-r10.pdf) |
+| Zombicide: Black Plague | [176189](https://boardgamegeek.com/boardgame/176189) | [zombicide-black-plague-rulebook.pdf](zombicide-black-plague-176189/zombicide-black-plague-rulebook.pdf) |
+| Zombicide: Black Plague | [176189](https://boardgamegeek.com/boardgame/176189) | [zombicide-wulfsburg-rulebook.pdf](zombicide-black-plague-176189/zombicide-wulfsburg-rulebook.pdf) |
 | Škoda kouzla, které padne vedle | [409878](https://boardgamegeek.com/boardgame/409878) | [skoda-kouzla-pravidla.pdf](skoda-kouzla-ktere-padne-vedle-409878/skoda-kouzla-pravidla.pdf) |
 | Škoda kouzla, které padne vedle | [409878](https://boardgamegeek.com/boardgame/409878) | [skoda-kouzla-velke-rozsireni.pdf](skoda-kouzla-ktere-padne-vedle-409878/skoda-kouzla-velke-rozsireni.pdf) |
